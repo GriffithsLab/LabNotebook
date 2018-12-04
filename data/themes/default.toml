@@ -1,0 +1,34 @@
+# Theme metadata
+name = "Default"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#2962ff"
+primary_light = "#768fff"
+#primary_dark = "#0039cb"
+primary_dark =  "#8B00BS"
+
+# Menu
+#menu_primary = "#fff"
+#menu_primary = "#fff"
+#menu_primary = "#8B00B#S"
+menu_primary = "purple"
+#menu_primary = "rgb(98,24,137,0.75)"
+#menu_opacity = "50%"
+#menu_text = "#34495e"
+menu_text = "white"
+#menu_text_active = "#2962ff"
+menu_text_active = "RebeccaPurple"
+menu_title = "white"
+#"#2b2b2b"
+
+# Home sections
+#home_section_even = "rgb(255, 255, 255)"
+#home_section_even = "rgb(247, 247, 247)"
+#home_section_odd = "rgb(98, 24, 137)"
+# rgb(98, 24, 137)
+# #621889
+
+
