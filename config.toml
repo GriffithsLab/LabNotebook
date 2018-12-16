@@ -11,7 +11,7 @@ baseurl = "/"
 # Title of your site
 #title = "Academic"
 #title = "Whole Brain Modelling Group"
-title = "KCNI WBMG"
+title = "KCNI Whole Brain Modelling"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -326,15 +326,15 @@ enableGitInfo = false
   align_right = true
 
 [[menu.main]]
-  name = "Home"
-  #url = "#about"
-  url = "#"
+  name = "About"
+  url = "#about"
+  #url = "#"
   weight = 1
 
 [[menu.main]]
   name = "Publications"
   url = "#publications_selected"
-  weight = 4
+  weight = 3
 
 #[[menu.main]]
 #  name = "Posts"
@@ -349,7 +349,7 @@ enableGitInfo = false
 [[menu.main]]
   name = "Research"
   url = "#research"
-  weight= 3 
+  weight= 2 
 
 #[[menu.main]]
 #  name = "Tutorials"
@@ -357,9 +357,9 @@ enableGitInfo = false
 #  weight = 5
 
 [[menu.main]]
-  name = "Members"
+  name = "People"
   url = "/members/"
-  weight = 5
+  weight = 4
 
 #[[menu.main]]
 #  name = "Resources"
@@ -368,13 +368,13 @@ enableGitInfo = false
 [[menu.main]]
    name = "Tools & Resources"
    url = "/tools/"
-   weight = 6
+   weight = 5
 
 
 [[menu.main]]
-   name = "News"
+   name = "News & Musings"
    url = "#news"
-   weight = 2
+   weight = 6
 
 [[menu.main]]
   name = "Contact"
