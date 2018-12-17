@@ -1,5 +1,5 @@
 +++
-title = "Members stuff"
+#title = "People"
 
 date = 2018-09-09T00:00:00
 # lastmod = 2018-09-09T00:00:00
@@ -10,19 +10,55 @@ type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
 #[menu.tutorial]
+
 [menu.members]
-  name = "Overview"
-  weight = 1
+#  name = "Lab Members"
+#  weight = 1
+
+#[menu.collaborators]
+#  name = "Collaborators"
+#  weight = 1
+
 +++
 
-This feature can be used for publishing content such as:
+# People
 
-* **Project or software documentation**
-* **Online courses**
-* **Tutorials**
+## Lab Members 
 
-The parent folder may be renamed, for example, to `docs` for project documentation or `course` for creating an online course.
 
-To disable this feature, either delete the parent folder, or set `draft = true` in the front matter of all its pages. 
+<div>
 
-After renaming or deleting the parent folder, you may wish to update any `[[menu.main]]` menu links to it in the `config.toml`. 
+---
+
+
+<img style="align: left; margin: 15px 15px 15px 15px;" src="/img/John_Griffiths_Photo.png" width="300" />
+
+**Dr. John Griffiths** - *Group Lead*
+
+
+I'm a neuroscientist based at the Rotman and Krembil Research Institutes in Toronto, Canada. My research uses a combination of computational modelling and neuroimaging techniques to study basic principles of brain organization, and the neural and cognitive effects of damage and disease.
+ 
+
+Follow the links above to learn more about my current projects, publications, talks and teaching, code and software, and science communication.
+ 
+
+You might also be interested in checking out my Digital Lab Notebook, my Github repositories, and the websites of the two research groups I work in: The McIntosh Lab and Lefebvre (Sync) Lab.
+
+
+---
+
+
+( ***Your name here...*** )
+
+
+---
+
+## Collaborators
+
+Dr. Jeremie Lefebvre
+
+Dr. Randy McIntosh
+
+Dr. Jed Meltzer
+
+
