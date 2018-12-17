@@ -23,7 +23,7 @@ height = "500px"
 [[item]]
   title = "Whole Brain Modelling Group"
   #content = "I am center aligned :smile:"
-  content = "Krembil Centre for Neuroinformatics"
+  content = "Krembil Centre for Neuroinformatics @ CAMH "
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
