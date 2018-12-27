@@ -334,11 +334,6 @@ enableGitInfo = false
   #url = "#"
   weight = 1
 
-[[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
-  weight = 3
-
 #[[menu.main]]
 #  name = "Posts"
 #  url = "#posts"
@@ -359,6 +354,11 @@ enableGitInfo = false
    url = "#projects"
    weight = 2 
 
+[[menu.main]]
+  name = "Publications"
+  url = "#publications_selected"
+  weight = 3
+
 
 #[[menu.main]]
 #  name = "Tutorials"
@@ -367,28 +367,37 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "People"
-  url = "/members/"
+  url = "#members"
   weight = 4
 
 #[[menu.main]]
 #  name = "Resources"
 #  url = "/resources/"
 #  weight = 6
+#[[menu.main]]
+#   name = "Tools & Resources"
+#   url = "#tools"
+#   weight = 5
+
 [[menu.main]]
-   name = "Tools & Resources"
-   url = "/tools/"
+   name = "Talks & Teaching"
+   url = "#talks_and_teaching"
    weight = 5
 
+[[menu.main]]
+   name = "Code & Software"
+   url = "#code_and_software"
+   weight = 6
 
 [[menu.main]]
    name = "News & Musings"
    url = "#news"
-   weight = 6
+   weight = 7
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 7
+  weight = 8
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
