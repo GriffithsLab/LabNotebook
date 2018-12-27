@@ -49,6 +49,6 @@ url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://
 +++
 
 
-[JDG Lab Notebook](https://johngriffiths.github.io/LabNotebook/about-the-notebook.html)
+[Link here](https://johngriffiths.github.io/LabNotebook/about-the-notebook.html)
 
 My online, digital lab notebook. Inspired by the pioneering efforts of Carl Boettiger. Entries are generally a mix of text, code, and rich media. I use this for both general notes, and for research project documentation and collaboration; and so the site contains both open-access and password-protected entries. Use the tags on the right hand side to list open access entries; all are welcome to peruse these and use any code goodies they find useful. If you are interested in seeing the content of any password-protected entries, get in touch.
