@@ -4,7 +4,7 @@ title = "Modelling brain dynamics at rest: practical tools and theoretical persp
 
 
 # Date this page was created.
-date = 2016-04-27T00:00:00
+date = 2017-04-01T00:00:00
 
 # Project summary to display on homepage.
 #summary = "An example of using the in-built project page."
@@ -47,11 +47,9 @@ url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://
 
 +++
 
-## Modelling Brain Dynamics at Rest: Practical Tools and Theoretical Perspectives
 
 <img style="float: right; margin: 15px 15px 15px 15px;" src="/img/kcn.png"  width="300" />
 
-*April 2017*
 
 Guest (inaugral) lecture given for the Krembil Computational Neuroscience (KCN) Events series
 

@@ -2,16 +2,18 @@
 # Project title.
 title = "The spherical harmonic structure of the human connectome"
 
+authors = []
 
 # Date this page was created.
-date = 2016-04-27T00:00:00
+date = 2017-12-01T00:00:00
 
 # Project summary to display on homepage.
 #summary = "An example of using the in-built project page."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["teaching"]
+#tags = ["teaching"]
+tags = []
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -22,7 +24,7 @@ external_link = ""
 #   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = "example-slides"
+# slides = "example-slides"
 
 # Links (optional).
 url_pdf = ""
@@ -47,11 +49,7 @@ url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://
 
 +++
 
-## The spherical harmonic structure of the human connectome 
-
 <img style="float: right; margin: 15px 15px 15px 15px;" src="/img/brainhackgradients.png"  width="300" />
-
-*December 2017*
 
 Invited talk at the "Large scale trends in cortical organization" workshop, Leipzig
 
