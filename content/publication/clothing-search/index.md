@@ -1,7 +1,8 @@
 +++
 title = "Mobile visual clothing search"
 date = 2013-07-01T00:00:00
-draft = false
+#draft = false JG_MOD
+draft = true  
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["GA Cushen", "MS Nixon"]
