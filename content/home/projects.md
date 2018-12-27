@@ -1,19 +1,20 @@
 +++
 # Projects widget.
+#widget = "research"
 widget = "projects"
-active = false
-#active = true
+active = true
 date = 2016-04-20T00:00:00
 
-title = "Projects"
+title = "Research"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 50
+weight = 2
 
 # Content.
 # Display content from the following folder.
 # For example, `folder = "project"` displays content from `content/project/`.
+#folder = "research"
 folder = "project"
 
 # View.
@@ -23,7 +24,9 @@ view = 1
 
 # Widget layout
 # Legend: 0 = two columns (default), 1 = single column
-widget_layout = 0
+#widget_layout = 0
+widget_layout = 1
+
 
 # For Showcase view, flip alternate rows?
 flip_alt_rows = false
@@ -37,17 +40,18 @@ filter_default = 0
 # To show all items, set `tag` to "*".
 # To filter by a specific tag, set `tag` to an existing tag name.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
-[[filter]]
-  name = "All"
-  tag = "*"
 
-[[filter]]
-  name = "Deep Learning"
-  tag = "Deep Learning"
+#[[filter]]
+#  name = "All"
+#  tag = "*"
 
-[[filter]]
-  name = "Other"
-  tag = "Demo"
+#[[filter]]
+#  name = "Deep Learning"
+#  tag = "Deep Learning"
+
+#[[filter]]
+#  name = "Other"
+#  tag = "Demo"
 
 +++
 
