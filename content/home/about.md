@@ -19,7 +19,7 @@ weight = 1
 
 In the whole brain modelling group at the [Krembil Centre for Neuroinformatics (KCNI)](https://www.camh.ca/en/science-and-research/institutes-and-centres/krembil-centre-for-neuroinformatics) we take a "bird's-eye" approach to understanding brain organization and how it is affected in neuropsychiatric and neurological disease.
 
-We develop and apply computational models of brain dynamics that combine meso-scale mathematical decsriptions of neural population activity with large-scale network structure. 
+We develop and apply computational models of brain dynamics that combine meso-scale mathematical descriptions of neural population activity with large-scale network structure. 
 
 This framework strikes a balance between *granularity* (level of physiological detail) and *coverage* (number of brain regions included) that is well-matched to the type of information that can be obtained from modern in-vivo neuroimaging techniques. 
 
