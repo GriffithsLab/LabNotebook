@@ -17,7 +17,7 @@ weight = 1
 +++
 
 
-In the whole brain modelling group we take a "bird's-eye" approach to understanding brain organization and how it is affected in neuropsychiatric and neurological disease.
+In the whole brain modelling group at the [Krembil Centre for Neuroinformatics (KCNI)](https://www.camh.ca/en/science-and-research/institutes-and-centres/krembil-centre-for-neuroinformatics) we take a "bird's-eye" approach to understanding brain organization and how it is affected in neuropsychiatric and neurological disease.
 
 We develop and apply computational models of brain dynamics that combine meso-scale mathematical decsriptions of neural population activity with large-scale network structure. 
 
