@@ -5,6 +5,10 @@ title = "Computational and theoretical models of brain dynamics"
 # Date this page was created.
 date = 2016-04-27T00:00:00
 
+# JG_ADD; c.f. hugo.io conversation
+showFooter = "false"
+
+
 # Project summary to display on homepage.
 #summary = "An example of using the in-built project page."
 
