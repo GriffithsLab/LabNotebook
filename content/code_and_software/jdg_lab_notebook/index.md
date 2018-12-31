@@ -2,7 +2,12 @@
 # Project title.
 title = "JDG Lab Notebook"
 
-author = ""
+#author = ""
+
+# as suggested from 
+# https://discourse.gohugo.io/t/suppress-username-footer-in-academic-theme/16086
+showFooter = "false"
+
 
 # Date this page was created.
 date = 2016-04-27T00:00:00
