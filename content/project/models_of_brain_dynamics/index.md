@@ -6,7 +6,7 @@ title = "Computational and theoretical models of brain dynamics"
 date = 2016-04-27T00:00:00
 
 # JG_ADD; c.f. hugo.io conversation
-showFooter = "false"
+showFooter = false
 
 
 # Project summary to display on homepage.
