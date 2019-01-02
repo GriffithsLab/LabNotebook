@@ -14,7 +14,7 @@ date = 2016-04-27T00:00:00
 # tags = ["teaching"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+# external_link = ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
