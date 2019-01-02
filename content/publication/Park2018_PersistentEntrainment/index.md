@@ -40,7 +40,7 @@ selected = true
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 #projects = ["models-of-brain-dynamics"]
-projects = ["models_of_brain_dynamics"]
+# projects = ["models_of_brain_dynamics"]
 #projects = ["external-project"]
 
 # Tags (optional).
