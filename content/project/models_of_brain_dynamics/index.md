@@ -26,7 +26,7 @@ tags = ["modelling", "theory"]
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 #slides = "example-slides"
-slides = ""
+# slides = ""
 
 # Links (optional).
 url_pdf = ""
