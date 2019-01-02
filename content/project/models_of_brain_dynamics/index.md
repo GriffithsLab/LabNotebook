@@ -14,7 +14,7 @@ showFooter = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["modelling", "theory"]
+# tags = ["modelling", "theory"]
 
 # Optional external URL for project (replaces project detail page).
 #external_link = ""
