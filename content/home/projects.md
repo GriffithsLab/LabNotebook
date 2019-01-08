@@ -55,3 +55,4 @@ filter_default = 0
 
 +++
 
+We do X and Y. Click the links below for details on research projects. 
