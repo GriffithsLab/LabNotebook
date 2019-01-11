@@ -19,14 +19,10 @@ weight = 1
 
 In the whole brain modelling group at the [Krembil Centre for Neuroinformatics (KCNI)](https://www.camh.ca/en/science-and-research/institutes-and-centres/krembil-centre-for-neuroinformatics) we take a "bird's-eye" approach to understanding brain organization and how it is affected in neuropsychiatric and neurological disease.
 
-We develop and apply computational models of brain dynamics that combine meso-scale mathematical descriptions of neural population activity with large-scale network structure. 
+We work extensively with structural and functional neuroimaging data (sMRI, fMRI, DWI, MEG, EEG), employing the latest cutting-edge analysis methods to study connectivity, oscillations, and their modification by brain stimulation and drugs. 
 
-This framework strikes a balance between *granularity* (level of physiological detail) and *coverage* (number of brain regions included) that is well-matched to the type of information that can be obtained from modern in-vivo neuroimaging techniques. 
+This information is used to construct and constrain computational models of brain dynamics that combine [meso-scale](http://www.scholarpedia.org/article/Mesoscopic_brain_dynamics) mathematical descriptions of neural population activity with whole-brain network structure. This framework strikes a balance between *granularity* (level of physiological detail) and *coverage* (number of brain regions included), that is well-matched to the type of information that can be obtained from modern in-vivo neuroimaging techniques. 
 
-We work closely and with a strong methodological component on human structural and functional neuroimaging data, with a focus on connectivity, oscillations, brain stimulation, and neuromodulation.
+Together with colleagues in the KCNI microcircuit modelling and computational genomics groups, we are also developing multi-scale modelling approaches that bridge cellular-level and population-level descriptions of neural activity. 
 
-Together with colleagues in the KCNI microcircuit modelling and computational genomics groups, we are also developing multi-scale modelling approaches that bridge cellular-levle and population-level descriptions of neural activity. 
-
-These will be central to the long-term goal of a simultaneously detailed andholistic in-silico accounts of brain functiona nd its pathologies. 
-
-
+Our long-term goal is the development simultaneously detailed and holistic in-silico computational and theoretical accounts of brain function, cognition, and their pathologies. 
