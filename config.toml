@@ -65,7 +65,7 @@ enableGitInfo = false
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "j.davidgriffiths@gmail.com"
+  email = "j.davidgriffiths at gmail.com"
   address = "CAMH, 250 College Street, Toronto, Canada"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "888 888 88 88"
