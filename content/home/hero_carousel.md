@@ -67,6 +67,6 @@ height = "500px"
   overlay_img = ""  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
-  content = "div <iframe src='https://www.camh.ca/en/science-and-research/institutes-and-centres/krembil-centre-for-neuroinformatics/research-pillars-and-values'></iframe>"
+  #content = "div <iframe src='https://www.camh.ca/en/science-and-research/institutes-and-centres/krembil-centre-for-neuroinformatics/research-pillars-and-values'></iframe>"
 
 +++
