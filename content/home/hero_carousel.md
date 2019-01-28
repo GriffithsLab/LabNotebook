@@ -49,7 +49,8 @@ height = "500px"
 
   title = "Whole Brain Modelling Group"
   #content = "I am center aligned :smile:"
-  content = "Krembil Centre for Neuroinformatics"
+  #content = "Krembil Centre for Neuroinformatics"
+  content = "Krembil Centre for Neuroinformatics @ CAMH "
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -59,14 +60,18 @@ height = "500px"
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Right"
-  content = "I am right aligned :smile:"
-  align = "right"
-
+  title = "Whole Brain Modelling Group"
+  content = "Krembil Centre for Neuroinformatics @ CAMH "
+  #align = "center"
+  align = "left"
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_img = "JG_CampbellSymposium_cropped.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.6  # Darken the image. Value in range 0-1.
   
-  #content = "div <iframe src='https://www.camh.ca/en/science-and-research/institutes-and-centres/krembil-centre-for-neuroinformatics/research-pillars-and-values'></iframe>"
+#  content = "<div iframe src='https://www.camh.ca/en/science-and-research/institutes-and-centres/krembil-centre-for-neuroinformatics/research-pillars-and-values'></iframe>"
+
+#  #content = "<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"> <iframe src="//www.youtube.com/embed/w7Ft2ymGmfc?autoplay=1" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe></div>"
+
+
 
 +++
