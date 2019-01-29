@@ -11,7 +11,7 @@ date = 2017-03-01T00:00:00
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 #tags = ["teaching"]
-tags = ["neuroimaging"]
+tags = ["Neuroimaging"]
 # Optional external URL for project (replaces project detail page).
 external_link = ""
 
