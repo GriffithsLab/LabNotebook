@@ -54,5 +54,17 @@ filter_default = 0
 #  name = "Software & Code"
 #  tags = [["software", "code"]]
 
+[[filter]]
+  name = "WBM Group"
+  tag = "WBM_Group"
+
+[[filter]]
+  name = "Collaborators"
+  tag = "Collaborators"
+
+[[filter]]
+  name = "All"
+  tag = "*"
+
 +++
 

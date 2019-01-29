@@ -69,12 +69,13 @@ flip_alt_rows = false
 #  tags = "OpenScience"
 
 
-#filter_default = 0
+filter_default = 0
 
 # Add or remove as many filters (`[[filter]]` instances) as you like.
 # To show all items, set `tag` to "*".
 # To filter by a specific tag, set `tag` to an existing tag name.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
+
 [[filter]]
   name = "All"
   tag = "*"
@@ -87,9 +88,6 @@ flip_alt_rows = false
   name = "Modelling"
   tag = "Modelling"
 
-[[filter]]
-  name = "OpenScience"
-  name = "OpenScience"
 
 
 +++
