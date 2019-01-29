@@ -4,7 +4,7 @@ title = "Analysis of fMRI data: principles & techniques"
 
 
 # Date this page was created.
-date = 2017-03-01T00:00:00
+#date = 2017-03-01T00:00:00
 
 # Project summary to display on homepage.
 #summary = "An example of using the in-built project page."
@@ -12,6 +12,7 @@ date = 2017-03-01T00:00:00
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 #tags = ["teaching"]
+tags = ["neuroimaging"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
