@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Your name here?"
+title = "You!"
 
 
 # Date this page was created.
@@ -11,7 +11,7 @@ date = 2016-04-27T00:00:00
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["teaching"]
+tags = ["WBM_Group"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
