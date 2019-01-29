@@ -21,7 +21,8 @@ folder = "talks_and_teaching"
 # Customize how projects are displayed.
 # Legend: 0 = list, 1 = cards, 2 = showcase.
 #view = 1
-view = 0
+#view = 0
+view = 1
 
 # Widget layout
 # Legend: 0 = two columns (default), 1 = single column
@@ -35,8 +36,9 @@ flip_alt_rows = false
 # Filter toolbar.
 
 # Default filter index (e.g. 0 corresponds to the first `[[filter]]` instance below).
-filter_default = 0
-
+#filter_default = 0
+#filter_default = 0
+#filter = "*"
 # Add or remove as many filters (`[[filter]]` instances) as you like.
 # To show all items, set `tag` to "*".
 # To filter by a specific tag, set `tag` to an existing tag name.
@@ -53,6 +55,42 @@ filter_default = 0
 #[[filter]]
 #  name = "Software & Code"
 #  tags = [["software", "code"]]
+
+#[[filter]]
+#  name = "neuroimaging"
+#  tags = "neuroimaging"
+
+#[[filter]]
+#  name = "modelling"
+#  tags = "modelling"
+
+#[[filter]]
+#  name = "OpenScience"
+#  tags = "OpenScience"
+
+
+#filter_default = 0
+
+# Add or remove as many filters (`[[filter]]` instances) as you like.
+# To show all items, set `tag` to "*".
+# To filter by a specific tag, set `tag` to an existing tag name.
+# To remove toolbar, delete/comment all instances of `[[filter]]` below.
+[[filter]]
+  name = "All"
+  tag = "*"
+
+[[filter]]
+  name = "Neuroimaging"
+  tag = "Neuroimaging"
+
+[[filter]]
+  name = "Modelling"
+  tag = "Modelling"
+
+[[filter]]
+  name = "OpenScience"
+  name = "OpenScience"
+
 
 +++
 
