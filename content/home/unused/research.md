@@ -1,10 +1,9 @@
 +++
 # Projects widget.
-#widget = "research"
-widget = "projects"
-active = true
-#date = 2016-04-20T00:00:00
-date = ""
+widget = "research"
+#active = true
+active = false
+date = 2016-04-20T00:00:00
 
 title = "Research"
 subtitle = ""
@@ -15,14 +14,12 @@ weight = 2
 # Content.
 # Display content from the following folder.
 # For example, `folder = "project"` displays content from `content/project/`.
-#folder = "research"
-folder = "project"
+folder = "research"
 
 # View.
 # Customize how projects are displayed.
 # Legend: 0 = list, 1 = cards, 2 = showcase.
-#view = 1
-view = 2
+view = 1
 
 # Widget layout
 # Legend: 0 = two columns (default), 1 = single column
@@ -31,7 +28,7 @@ widget_layout = 1
 
 
 # For Showcase view, flip alternate rows?
-flip_alt_rows = true
+flip_alt_rows = false
 
 # Filter toolbar.
 
@@ -56,7 +53,4 @@ filter_default = 0
 #  tag = "Demo"
 
 +++
-
-We have a number of ongoing research projects in the areas of computational neuroscience, neuroimaging, and neuroinformatics. Click the links below for details. 
-
 

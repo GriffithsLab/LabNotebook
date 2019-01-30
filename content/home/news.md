@@ -5,11 +5,12 @@ widget = "posts"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "News & Musings"
+title = "News and Musings"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 7
+weight = 2
+# 7
 
 # Filter posts by tag.
 #  By default, show all recent posts.
