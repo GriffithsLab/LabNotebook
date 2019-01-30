@@ -65,8 +65,10 @@ enableGitInfo = false
   #avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "j.davidgriffiths at gmail.com"
-  address = "CAMH, 250 College Street, Toronto, Canada"
+  email = "john.griffiths@camh.ca"
+  #address = "CAMH, 250 College Street, Toronto, Canada"
+  address = "Centre for Addiction and Mental Health (CAMH), 33 Russell Street, Toronto ON"
+
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "888 888 88 88"
   #skype = "echo123"
@@ -204,7 +206,8 @@ enableGitInfo = false
   # Configuration of talk pages.
   [params.talks]
     # Show talk time?
-    time = true
+    time = false 
+    # true
 
   # Configuration of publication pages.
   [params.publications]
@@ -334,6 +337,12 @@ enableGitInfo = false
   #url = "#"
   weight = 1
 
+
+[[menu.main]]
+   name = "News & Musings"
+   url = "#news"
+   weight = 2
+
 #[[menu.main]]
 #  name = "Posts"
 #  url = "#posts"
@@ -352,12 +361,12 @@ enableGitInfo = false
 [[menu.main]]
    name = "Research"
    url = "#projects"
-   weight = 2 
+   weight = 3 
 
 [[menu.main]]
   name = "Publications"
   url = "#publications_selected"
-  weight = 3
+  weight = 4
 
 
 #[[menu.main]]
@@ -367,8 +376,8 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "People"
-  url = "#members"
-  weight = 4
+  url = "people"
+  weight = 5
 
 #[[menu.main]]
 #  name = "Resources"
@@ -382,17 +391,17 @@ enableGitInfo = false
 [[menu.main]]
    name = "Talks & Teaching"
    url = "#talks_and_teaching"
-   weight = 5
+   weight = 6
 
 [[menu.main]]
    name = "Code & Software"
    url = "#code_and_software"
-   weight = 6
-
-[[menu.main]]
-   name = "News & Musings"
-   url = "#news"
    weight = 7
+
+#[[menu.main]]
+#   name = "" # "News & Musings"
+#   url = "#news"
+#   weight = 1
 
 [[menu.main]]
   name = "Contact"
