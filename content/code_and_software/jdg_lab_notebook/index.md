@@ -10,8 +10,27 @@ showFooter = "false"
 
 
 # Date this page was created.
-date = 2016-04-27T00:00:00
+#date = 2016-04-27T00:00:00
+#date = ""
 
+
+
+
+date = 2017-01-01T00:00:00  # Schedule page publish date.
+draft = false
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+time_start = 2030-06-01T13:00:00
+time_end = 2030-06-01T15:00:00
+all_day = false
+
+
+
+
+
+
+#showDate = "false"
 # Project summary to display on homepage.
 #summary = "An example of using the in-built project page."
 
@@ -43,16 +62,25 @@ url_code = ""
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
-  focal_point = "Smart"
+    focal_point = "TopRight"
+#[image]
+#   focal_point = "TopLeft"
+   preview_only = true
+
+#  focal_point = "Smart"
 
 #  # Caption (optional)
 #  #  caption = "Photo by rawpixel on Unsplash"
 #  # Focal point (optional)
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 #  focal_point = "Smart"
-
+#   focal_point = ""
 
 +++
+
+
+
+<img style="float: right; margin: 15px 15px 15px 15px;" src="/img/computer_notebook.jpg"  width="300" />
 
 
 [Link here](https://johngriffiths.github.io/LabNotebook/about-the-notebook.html)
