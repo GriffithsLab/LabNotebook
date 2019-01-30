@@ -3,7 +3,8 @@
 title = "Computational and theoretical models of brain dynamics"
 
 # Date this page was created.
-date = 2016-04-27T00:00:00
+#date = 2016-04-27T00:00:00
+#date = ""
 
 # JG_ADD; c.f. hugo.io conversation
 showFooter = false
@@ -40,13 +41,13 @@ url_code = ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-#[image]
+[image]
 #  # Caption (optional)
 #  caption = "Photo by rawpixel on Unsplash"
   
 #  # Focal point (optional)
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-#  focal_point = "Smart"
+  focal_point = "TopLeft"
 
 
 +++
