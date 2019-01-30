@@ -1,21 +1,20 @@
 +++
 # Project title.
-title = "The spherical harmonic structure of the human connectome"
+title = "Modelling brain dynamics at rest: practical tools and theoretical perspectives"
 
-authors = []
 
 # Date this page was created.
-date = 2017-12-01T00:00:00
+date = 2017-04-01T00:00:00
 
 # Project summary to display on homepage.
 #summary = "An example of using the in-built project page."
+summary = "Guest (inaugral) lecture given for the Krembil Computational Neuroscience (KCN) Events series"
+
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-#tags = ["teaching"]
-# tags = []
+# tags = ["teaching"]
 tags = ["Modelling"]
-
 # Optional external URL for project (replaces project detail page).
 external_link = ""
 
@@ -29,7 +28,7 @@ external_link = ""
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "https://drive.google.com/open?id=0BxmhnBwE8JdDQXBwUzdVVDUtTTQ"
 url_video = ""
 url_code = ""
 
@@ -37,9 +36,15 @@ url_code = ""
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
 
+
+url_custom = [{icon_pack = "fab", icon="website", name="KCN events site", url="https://sites.google.com/site/krembilcompneuro/event-calendar"}]
+
+
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-#[image]
+[image]
+  preview_only = true
 #  # Caption (optional)
 #  caption = "Photo by rawpixel on Unsplash"
   
@@ -50,14 +55,9 @@ url_code = ""
 
 +++
 
-<img style="float: right; margin: 15px 15px 15px 15px;" src="/img/brainhackgradients.png"  width="300" />
 
-Invited talk at the "Large scale trends in cortical organization" workshop, Leipzig
+<img style="float: right; margin: 15px 15px 15px 15px;" src="/img/kcn.png"  width="300" />
 
-[Slides](https://drive.google.com/open?id=16Kb4NHx5PpuL77YCV7Vfi8uXzOe0PBkJ)
-
-<br>
-<br>
-<br>
+Guest (inaugral) lecture given for the Krembil Computational Neuroscience (KCN) Events series
 
 

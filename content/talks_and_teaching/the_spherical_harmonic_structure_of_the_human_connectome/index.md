@@ -1,20 +1,24 @@
 +++
 # Project title.
-title = "Wired Minds"
+title = "The spherical harmonic structure of the human connectome"
+
+authors = []
 
 # Date this page was created.
-#date = 2016-04-27T00:00:00
-date = ''
+date = 2017-12-01T00:00:00
 
 # Project summary to display on homepage.
 #summary = "An example of using the in-built project page."
+summary = "Invited talk at the 'Large scale trends in cortical organization' workshop, Leipzig"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-#tags = ["talks"]
-tags = ["Philosophy"]
+#tags = ["teaching"]
+# tags = []
+tags = ["Modelling"]
+
 # Optional external URL for project (replaces project detail page).
-#external_link = ""
+external_link = ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -22,24 +26,24 @@ tags = ["Philosophy"]
 #   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-#slides = "example-slides"
+# slides = "example-slides"
 
 # Links (optional).
-#url_pdf = ""
-#url_slides = ""
-#url_video = ""
-#url_code = ""
+url_pdf = ""
+url_slides = "https://drive.google.com/open?id=16Kb4NHx5PpuL77YCV7Vfi8uXzOe0PBkJ"
+url_video = ""
+url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
+# url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-#[image]
+[image]
 #  # Caption (optional)
 #  caption = "Photo by rawpixel on Unsplash"
-  
+  preview_only = true  
 #  # Focal point (optional)
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 #  focal_point = "Smart"
@@ -47,12 +51,9 @@ tags = ["Philosophy"]
 
 +++
 
-<img style="float: right; margin: 15px 15px 15px 15px;" src="/img/wired_minds_logo.jpg"  width="300" />
+Invited talk at the "Large scale trends in cortical organization" workshop, Leipzig
 
-Podcast & blog on neuroscience type matters with esteemed friend and colleague Dr. Christopher Harris of NIH and Backyard Brains.
+<img style="float: right; margin: 15px 15px 15px 15px;" src="/img/brainhackgradients.png"  width="300" />
 
-[Discussion](https://youtu.be/2Pw_xyectlo?t=155) on Oh et al. and the Allen mouse brain atlas
-
-[Discussion](https://dl.dropboxusercontent.com/s/siw4r670v6dxbq0/wired_minds_ep1.mp3) on the philosophy and neuroscience of 'mind uploading'
 
 

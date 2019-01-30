@@ -1,21 +1,22 @@
 +++
 # Project title.
-title = "The Virtual Brain (TVB) Workshops"
-
+title = "Wired Minds"
 
 # Date this page was created.
 #date = 2016-04-27T00:00:00
-date = ""
+date = ''
 
 # Project summary to display on homepage.
 #summary = "An example of using the in-built project page."
+summary = "Podcast & blog on neuroscience type matters with esteemed friend and colleague Dr. Christopher Harris of NIH and Backyard Brains."
+
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-#tags = ["teaching"]
-tags = ["modelling"]
+#tags = ["talks"]
+tags = ["Philosophy"]
 # Optional external URL for project (replaces project detail page).
-# external_link = ""
+#external_link = ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -37,10 +38,10 @@ tags = ["modelling"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-#[image]
+[image]
 #  # Caption (optional)
 #  caption = "Photo by rawpixel on Unsplash"
-  
+  preview_only = true  
 #  # Focal point (optional)
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 #  focal_point = "Smart"
@@ -48,13 +49,12 @@ tags = ["modelling"]
 
 +++
 
+<img style="float: right; margin: 15px 15px 15px 15px;" src="/img/wired_minds_logo.jpg"  width="300" />
 
-<img style="float: right; margin: 15px 15px 15px 15px;" src="/img/streamlines.jpg"  width="300" />
+Podcast & blog on neuroscience type matters with esteemed friend and colleague Dr. Christopher Harris of NIH and Backyard Brains.
 
-As a [member of the TVB team](http://www.thevirtualbrain.org/tvb/zwei/teamwork-contributors) I provide technical support on the Forum, and also teach regularly at the official TVB Node workshops, as well as similar non-Node events.
+[Discussion](https://youtu.be/2Pw_xyectlo?t=155) on Oh et al. and the Allen mouse brain atlas
 
-<br>
-<br>
-<br>
+[Discussion](https://dl.dropboxusercontent.com/s/siw4r670v6dxbq0/wired_minds_ep1.mp3) on the philosophy and neuroscience of 'mind uploading'
 
 

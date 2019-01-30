@@ -8,6 +8,8 @@ date = 2018-01-01T00:00:00
 
 # Project summary to display on homepage.
 #summary = "An example of using the in-built project page."
+summary = "Tutorial session given at Rotman Research Institute, Baycrest (jointly given with Dr. Erin Dickie)"
+
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -35,6 +37,9 @@ external_link = ""
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
 
+url_custom = [{icon_pack = "fab", icon="youtube", name="Video recording", url="https://youtu.be/yadcobCnay4"}]
+
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 #[image]
@@ -47,15 +52,4 @@ external_link = ""
 
 
 +++
-
-Tutorial session given at Rotman Research Institute, Baycrest
-
-(jointly given with Dr. Erin Dickie)
-
-{{< youtube id="yadcobCnay4" >}}
-
-<br>
-<br>
-<br>
-
 

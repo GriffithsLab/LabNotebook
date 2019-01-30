@@ -1,18 +1,21 @@
 +++
 # Project title.
-title = "Modelling brain dynamics at rest: practical tools and theoretical perspectives"
+title = "Introduction to diffusion-weighted MRI"
 
 
 # Date this page was created.
-date = 2017-04-01T00:00:00
+#date = 2018-02-01T00:00:00
+date = ""
 
 # Project summary to display on homepage.
 #summary = "An example of using the in-built project page."
+summary = "Workshop given at Rotman Research Institute"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-# tags = ["teaching"]
-tags = ["Modelling"]
+#tags = ["teaching"]
+tags = ["Neuroimaging"]
+
 # Optional external URL for project (replaces project detail page).
 external_link = ""
 
@@ -28,7 +31,7 @@ external_link = ""
 url_pdf = ""
 url_slides = ""
 url_video = ""
-url_code = ""
+#url_code = "https://github.com/JohnGriffiths/Intro2DiffusionMRI"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -36,10 +39,11 @@ url_code = ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-#[image]
+[image]
 #  # Caption (optional)
 #  caption = "Photo by rawpixel on Unsplash"
-  
+  preview_only = true
+
 #  # Focal point (optional)
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 #  focal_point = "Smart"
@@ -47,17 +51,8 @@ url_code = ""
 
 +++
 
+<img style="float: right; margin: 15px 15px 15px 15px;" src="/img/streamlines.jpg"  width="300" />
 
-<img style="float: right; margin: 15px 15px 15px 15px;" src="/img/kcn.png"  width="300" />
+Workshop given at Rotman Research Institute
 
-
-Guest (inaugral) lecture given for the Krembil Computational Neuroscience (KCN) Events series
-
-[Slides](https://drive.google.com/open?id=0BxmhnBwE8JdDQXBwUzdVVDUtTTQ)
-
-[KCN events site](https://sites.google.com/site/krembilcompneuro/event-calendar)
-
-<br>
-<br>
-<br>
 

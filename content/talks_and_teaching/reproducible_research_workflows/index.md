@@ -8,6 +8,7 @@ date = 2018-02-01T00:00:00
 
 # Project summary to display on homepage.
 #summary = "An example of using the in-built project page."
+summary = "Hands-on tutorial talk at University of Toronto"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -29,33 +30,29 @@ external_link = ""
 # Links (optional).
 #url_pdf = ""
 #url_slides = ""
-#url_video = ""
+#url_video = "https://youtu.be/dVGVBMb6kzo"
 #url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
 
+
+url_custom = [{icon_pack = "fab", icon="youtube", name="Video recording", url =               "https://youtu.be/dVGVBMb6kzo"},
+             {icon_pack = "fab", icon="github", name="Github repo", url = "https://github.com/JohnGriffiths/UofT_Coders_Talk_March2018"}]
+
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-#[image]
+[image]
 #  # Caption (optional)
 #  caption = "Photo by rawpixel on Unsplash"
   
 #  # Focal point (optional)
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-#  focal_point = "Smart"
+  focal_point = "Smart"
 
 
 +++
 
-Hands-on tutorial talk at University of Toronto
-
-[Tutorial materials github repository](https://github.com/JohnGriffiths/UofT_Coders_Talk_March2018)
-
-{{< youtube id="dVGVBMb6kzo" >}}
-
-<br>
-<br>
-<br>
 
