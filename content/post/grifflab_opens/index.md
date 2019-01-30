@@ -2,7 +2,7 @@
 title = "GriffLab opens for business"
 subtitle = "Exciting times :rocket: "
 
-date = 2018-01-20T00:00:00
+date = 2019-01-29T00:00:00
 # lastmod = 2018-01-13T00:00:00
 draft = false
 
