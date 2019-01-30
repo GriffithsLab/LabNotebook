@@ -53,10 +53,3 @@ url_custom = [{icon_pack = "fab", icon="github", name="Github Repo", url = "http
 
 
 +++
-
-<img style="float: right; margin: 15px 15px 15px 15px;" src="/img/CAN.png"  width="300" />
-
-
-Lecture given at the Canadian Association for Neuroscience Meeting Satellite workshop: *Neural signal and image processing: quantitative analysis of neural activity*
-
-

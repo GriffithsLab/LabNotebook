@@ -51,9 +51,3 @@ url_code = ""
 
 +++
 
-Invited talk at the "Large scale trends in cortical organization" workshop, Leipzig
-
-<img style="float: right; margin: 15px 15px 15px 15px;" src="/img/brainhackgradients.png"  width="300" />
-
-
-

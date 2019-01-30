@@ -50,13 +50,3 @@ tags = ["modelling"]
 
 +++
 
-
-<img style="float: right; margin: 15px 15px 15px 15px;" src="/img/streamlines.jpg"  width="300" />
-
-As a [member of the TVB team](http://www.thevirtualbrain.org/tvb/zwei/teamwork-contributors) I provide technical support on the Forum, and also teach regularly at the official TVB Node workshops, as well as similar non-Node events.
-
-<br>
-<br>
-<br>
-
-

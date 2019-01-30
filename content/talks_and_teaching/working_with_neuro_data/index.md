@@ -54,12 +54,3 @@ url_custom = [{icon_pack = "fab", icon="youtube", name="Video recording", url = 
 +++
 
 
-
-
-<img style="float: right; margin: 15px 15px 15px 15px;" src="/img/tda.jpg"  width="300" />
-
-Second of the two lectures I gave at the Banff International Research Station (BIRS) workshop on Topological Methods in Brain Network Analysis
-
-[BIRS workshop session website](http://www.birs.ca/events/2017/5-day-workshops/17w5043/videos/watch/201705081432-Griffiths.html)
-
-

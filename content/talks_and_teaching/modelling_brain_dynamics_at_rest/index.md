@@ -55,9 +55,3 @@ url_custom = [{icon_pack = "fab", icon="website", name="KCN events site", url="h
 
 +++
 
-
-<img style="float: right; margin: 15px 15px 15px 15px;" src="/img/kcn.png"  width="300" />
-
-Guest (inaugral) lecture given for the Krembil Computational Neuroscience (KCN) Events series
-
-

@@ -51,8 +51,3 @@ url_video = ""
 
 +++
 
-<img style="float: right; margin: 15px 15px 15px 15px;" src="/img/streamlines.jpg"  width="300" />
-
-Workshop given at Rotman Research Institute
-
-
