@@ -15,3 +15,8 @@ list_format = 3
 image = ""
 caption = ""
 +++
+
+(See also JG's Google Scholar page [here](https://scholar.google.ca/citations?hl=en&user=xwkt6aQAAAAJ&view_op=list_works))
+
+
+
