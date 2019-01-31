@@ -49,8 +49,19 @@ url_code = ""
 
 +++
 
-Models of brain stimulation, and particularly how periodic brain stimulation interacts with ongoing neural oscillations, is a major focus of my current work with Dr. Lefebvre. We find that a thalamocortical loop motif consisting of excitatory and inhibitory cortical neuronal populations, and excitatory (relay) and inhibitory (reticular) thalamic nuclei, can reproduce a large amount of the empirical pheonomena measured with resting state M/EEG (Griffiths & Lefebvre, in press). We are now investigating how the topological structure of the cortex interacts with the rhythmogenic properties of this base circuit motif.
+The effects of white matter damage on cognitive and neural function has been a subject of major interest for me for many years. In my PhD work and earlier I studied how different spatial profiles of damage following stroke resulted in differential types of linguistic impairments.i
 
-Driving this system with periodic electric stimulation produces Arnold Tongues and resonance effects that depend on both the noise and the time delay structure of the underlying neural system, as well as its current state - which (like the EEG) shows endogeneous fluctuations between regimes of synchronous alpha activity and periods of relatively more asynchronous high-frequency activity.
+
+A large part of my current work asks similar questions from a more systems level perspective: what is the impact of a given spatial profile of damage on the topological structure and dynamic behaviour in connectome-based neural mass models? In order to help address questions like this, I have built a software library, ConWhAt, for connectome-based white matter atlas analysis. This allows the construction of 'damaged' brain networks for a given spatial profile of damage, obviating the need to run complicated tractography analyses in individual patients.
+
+
+<img style="align: right; margin: 15px 15px 15px 15px;" src="/img/griffiths2013_tracts.png" width="700" />
+
+<img style="align: right; margin: 15px 15px 15px 15px;" src="/img/conwhat_atlases.png" width="700" />
+
+<img style="align: right; margin: 15px 15px 15px 15px;" src="/img/conwhat_atlas_construction.png" width="700" />
+
+
+
 
 
