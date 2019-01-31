@@ -16,6 +16,15 @@ image = ""
 caption = ""
 +++
 
+---
+
+
+
+We want you!
+
+<img style="align: right; margin: 15px 15px 15px 15px;" src="/img/KitchenerYou.jpg" width="300" />
+
+
 
 ## PostDocs
 
