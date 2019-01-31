@@ -55,11 +55,8 @@ You might also be interested in checking out my Digital Lab Notebook, my Github 
 <img style="align: right; margin: 15px 15px 15px 15px;" src="/img/KitchenerYou.jpg" width="300" />
 
 
-We want you! Students and post-docs interested in joining the lab - see [openings]()
+We want you! Students and post-docs interested in joining the lab - see [positions](/positions)
 
-
-
-( ***Your name here...*** )
 
 <br>
 <br>
