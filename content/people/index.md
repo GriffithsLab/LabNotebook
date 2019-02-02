@@ -39,10 +39,9 @@ type = "docs"  # Do not modify.
 
 [CV here](/files/JG_CV.pdf)
 
-Dr. Griffiths is a cognitive and omputational neuroscientist from Wigan in the North of England. He completed his undergraduate training at the University of Warwick, and graduate training at the University of York (advisor Prof. Gary Green) and University of Cambridge (advisor Prof. Lorraine Tyler). He then worked as a post-doctoral fellow in the University of Sydney School of Physics (with Prof. Peter Robinson), and the at the Rotman Research Institute (with Dr. Randy McIntosh) and Krembil Research Institute (with Dr. Jeremie Lefebvre) in Toronto, Canada. He joined the Krembil Centre for Neuroinformatics at CAMH and the University of Toronto as a Scientist and Assistant Professor in January 2019. 
+Dr. Griffiths is a cognitive and computational neuroscientist from Wigan in the North of England. He completed his undergraduate training in psychology and philosophy at the University of Warwick, and graduate training in neuroimaging and cognitive neuroscience at the University of York (advisor Prof. Gary Green) and University of Cambridge (advisor Prof. Lorraine Tyler). He then worked as a post-doctoral fellow in the University of Sydney School of Physics (with Prof. Peter Robinson), and the at the Rotman Research Institute (with Dr. Randy McIntosh) and Krembil Research Institute (with Dr. Jeremie Lefebvre) in Toronto, Canada. He joined the Krembil Centre for Neuroinformatics at CAMH and the University of Toronto as a Scientist and Assistant Professor in January 2019. 
 
-
-
+Dr. Griffiths has a strong technical expertise in multimodal neuroimaging data analysis, scientific computing, and numerical simulations of large-scale brain dynamics. Through his work with Dr. Mcintosh and colleagues in Europe and the US, he is an active conitrbutor to the scientific, software development, and educational missions of the [Virtual Brain Project](https://www.thevirtualbrain.org/tvb/zwei).
 
 
 ---
