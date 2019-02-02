@@ -27,7 +27,7 @@ weight = 2
 
 <br>
 
-In the Whole Brain Modelling Group (aka GriffLab) at the [Krembil Centre for Neuroinformatics (KCNI)](https://www.camh.ca/en/science-and-research/institutes-and-centres/krembil-centre-for-neuroinformatics) we take a "bird's-eye" approach to understanding brain organization and how it is affected in neuropsychiatric and neurological disease.
+In the Whole Brain Modelling Group (aka GriffLab) at the [Krembil Centre for Neuroinformatics (KCNI)](https://www.camh.ca/en/science-and-research/institutes-and-centres/krembil-centre-for-neuroinformatics), we take a "bird's-eye" approach to understanding brain organization and how it is affected in neuropsychiatric and neurological disease.
 
 We work extensively with structural and functional neuroimaging data (sMRI, fMRI, DWI, MEG, EEG), employing the latest cutting-edge analysis methods to study connectivity, oscillations, and their modification by brain stimulation and drugs. 
 
