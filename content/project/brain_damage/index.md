@@ -57,9 +57,15 @@ A large part of my current work asks similar questions from a more systems level
 
 <img src="/img/conwhat_atlases.png" align="left" margin="15px 15px 15px 15px" width="400" />
 
+<br>
+<br>
+
 In order to help address questions like this, we are developing a new software library, ConWhAt, for 'connectome-based white matter atlas analysis'. This allows the construction of 'damaged' brain networks for a given spatial profile of damage, obviating the need to run complicated tractography analyses in individual patients.
 
 <img src="/img/conwhat_atlas_construction.png" align="right" margin="15px 15px 15px 15px" width="400" />
+
+<br>
+<br>
 
 Together with [Jed Meltzer's team](http://research.baycrest.org/jmeltzer) from the Rotman Research Institute at Baycrest hospital, we are also beginning to investigate physiological changes in perilesional tissue following stroke, and how brain stimulation (informed by computational modelling) can be used to target and renormalize abberant activity in these regions. 
 
