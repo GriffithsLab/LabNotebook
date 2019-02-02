@@ -15,7 +15,7 @@ summary = "As a [member of the TVB team](http://www.thevirtualbrain.org/tvb/zwei
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 #tags = ["teaching"]
-tags = ["modelling"]
+tags = ["Modelling"]
 # Optional external URL for project (replaces project detail page).
 # external_link = ""
 
