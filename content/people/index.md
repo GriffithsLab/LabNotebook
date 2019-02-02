@@ -31,18 +31,18 @@ type = "docs"  # Do not modify.
 ---
 
 
-<img style="align: right; margin: 15px 15px 15px 15px;" src="/img/John_Griffiths_Photo.png" width="300" />
-
-**Dr. John Griffiths** - *Group Lead*
+<img src="/img/John_Griffiths_Photo.png" align="right" margin="15px 15px 15px 15px" width="300" />
 
 
-I'm a neuroscientist based at the Rotman and Krembil Research Institutes in Toronto, Canada. My research uses a combination of computational modelling and neuroimaging techniques to study basic principles of brain organization, and the neural and cognitive effects of damage and disease.
- 
 
-Follow the links above to learn more about my current projects, publications, talks and teaching, code and software, and science communication.
- 
+### Dr. John David Griffiths - *Group Lead*
 
-You might also be interested in checking out my Digital Lab Notebook, my Github repositories, and the websites of the two research groups I work in: The McIntosh Lab and Lefebvre (Sync) Lab.
+[CV here](/files/JG_CV.pdf)
+
+Dr. Griffiths is a cognitive and omputational neuroscientist from Wigan in the North of England. He completed his undergraduate training at the University of Warwick, and graduate training at the University of York (advisor Prof. Gary Green) and University of Cambridge (advisor Prof. Lorraine Tyler). He then worked as a post-doctoral fellow in the University of Sydney School of Physics (with Prof. Peter Robinson), and the at the Rotman Research Institute (with Dr. Randy McIntosh) and Krembil Research Institute (with Dr. Jeremie Lefebvre) in Toronto, Canada. He joined the Krembil Centre for Neuroinformatics at CAMH and the University of Toronto as a Scientist and Assistant Professor in January 2019. 
+
+
+
 
 
 ---
