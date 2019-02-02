@@ -18,7 +18,7 @@ weight = 2
 
 
 
-<div align="center"> <img src="/img/CAMH_KCNI_logo.jpg" align="center" margin="15px 15px 15px 15px" width="300" /> </div>
+<div align="center"> <img src="/img/CAMH_KCNI_logo_transparent.jpg" align="center" margin="15px 15px 15px 15px" width="300" /> </div>
 <br>
 <br>
 <div align="center"> <img src="/img/KCNI_logo_transparent.png" align="center" margin="15px 15px 15px 15px" width="300" /> </div>
