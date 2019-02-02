@@ -40,6 +40,7 @@ url_code = ""
 #  # Caption (optional)
 #  caption = "Photo by rawpixel on Unsplash"
   
+  
 # Focal point (optional)
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
