@@ -14,7 +14,9 @@ title = "We are hiring!"
 # Order that this section will appear in.
 weight = 1
 
-widget_layout = 0
+#widget_layout = 0
+widget_layout = 1
+
 
 view = 1
 
@@ -22,7 +24,7 @@ view = 1
 +++
 
 
-<img src="/img/KCNI_WereHiring.jpg" align="right" margin="15px 15px 15px 15px" width="300" />
+<img src="/img/KCNI_WereHiring.jpg" align="center" margin="15px 15px 15px 15px" width="300" />
 
 Students and post-docs interested in joining the lab, get in touch. 
 
