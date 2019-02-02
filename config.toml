@@ -6,12 +6,12 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "www.grifflab.com/"
 
 # Title of your site
 #title = "Academic"
 #title = "Whole Brain Modelling Group"
-title = "KCNI Whole Brain Modelling"
+title = "KCNI WBMG"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
