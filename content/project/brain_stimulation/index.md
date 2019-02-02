@@ -52,3 +52,5 @@ Models of brain stimulation, and particularly how periodic brain stimulation int
 
 Driving this system with periodic electric stimulation produces Arnold Tongues and resonance effects that depend on both the noise and the time delay structure of the underlying neural system, as well as its current state - which (like the EEG) shows endogeneous fluctuations between regimes of synchronous alpha activity and periods of relatively more asynchronous high-frequency activity.
 
+
+A key question for our future work in modelling brain stimulation is *plasticity*: How to oscillatory changes due to TMS obtain from the treatment, continuing to have long-term efficacious effects weeks or months down the line. 
