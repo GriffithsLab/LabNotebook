@@ -33,9 +33,8 @@ type = "docs"  # Do not modify.
 
 <img src="/img/John_Griffiths_Photo.png" align="right" margin="15px 15px 15px 15px" width="300" />
 
-
-
-### Dr. John David Griffiths - *Group Lead*
+### Dr. John David Griffiths 
+***Group Lead***
 
 [CV here](/files/JG_CV.pdf)
 
@@ -50,9 +49,9 @@ Dr. Griffiths has a strong technical expertise in multimodal neuroimaging data a
 <br>
 <br>
 
+<img src="/img/KitchenerYou.jpg" align="right" margin="15px 15px 15px 15px" width="300" />
 
-<img style="align: right; margin: 15px 15px 15px 15px;" src="/img/KitchenerYou.jpg" width="300" />
-
+### Your name here!
 
 We want you! Students and post-docs interested in joining the lab - see [positions](/positions)
 
