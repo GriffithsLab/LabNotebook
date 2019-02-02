@@ -56,7 +56,9 @@ ConWhAt (for Connectome-based White matter Atlas Analyses) is a tool for studyin
 Its primary functionality is connectome-based white matter atlas analysis, for which it uses a set of connectome-based white matter 
 atlases developed by our research group for this purpose, as well as (optionally) similar atlases developed by other groups. ConWhAt 
 can also be used for more conventional tract-based white matter atlas analysis, and more generally for querying how spatial locations 
-in the white matter tissue relate to different grey matter regions and brain networks. Our main goal in developing ConWhAt is to 
+in the white matter tissue relate to different grey matter regions and brain networks. 
+
+Our main goal in developing ConWhAt is to 
 support patient-specific neurocomputational modelling using The Virtual Brain (TVB) modelling and neuroinformatics platform. 
 Examples of how to set up TVB models from ConWhAt analysis outputs are given in the documentation.
 
