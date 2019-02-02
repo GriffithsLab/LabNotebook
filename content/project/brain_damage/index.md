@@ -49,17 +49,20 @@ url_code = ""
 
 +++
 
-The effects of white matter damage on cognitive and neural function has been a subject of major interest for me for many years. In my PhD work and earlier I studied how different spatial profiles of damage following stroke resulted in differential types of linguistic impairments.i
+The effects of white matter damage on cognitive and neural function has been a subject of major interest for me for many years. In my PhD work I studied how different spatial profiles of damage following stroke resulted in differential types of linguistic impairments.
 
+<img src="/img/griffiths2013_tracts.png" align="right" margin="15px 15px 15px 15px" width="400" />
 
-A large part of my current work asks similar questions from a more systems level perspective: what is the impact of a given spatial profile of damage on the topological structure and dynamic behaviour in connectome-based neural mass models? In order to help address questions like this, I have built a software library, ConWhAt, for connectome-based white matter atlas analysis. This allows the construction of 'damaged' brain networks for a given spatial profile of damage, obviating the need to run complicated tractography analyses in individual patients.
+A large part of my current work asks similar questions from a more systems level perspective: what is the impact of a given spatial profile of damage on the topological structure and dynamic behaviour in connectome-based neural mass models? 
 
+<img src="/img/conwhat_atlases.png" align="left" margin="15px 15px 15px 15px" width="400" />
 
-<img style="align: right; margin: 15px 15px 15px 15px;" src="/img/griffiths2013_tracts.png" width="700" />
+In order to help address questions like this, we are developing a new software library, ConWhAt, for 'connectome-based white matter atlas analysis'. This allows the construction of 'damaged' brain networks for a given spatial profile of damage, obviating the need to run complicated tractography analyses in individual patients.
 
-<img style="align: right; margin: 15px 15px 15px 15px;" src="/img/conwhat_atlases.png" width="700" />
+<img src="/img/conwhat_atlas_construction.png" align="right" margin="15px 15px 15px 15px" width="400" />
 
-<img style="align: right; margin: 15px 15px 15px 15px;" src="/img/conwhat_atlas_construction.png" width="700" />
+Together with [Jed Meltzer's team](http://research.baycrest.org/jmeltzer) from the Rotman Research Institute at Baycrest hospital, we are also beginning to investigate physiological changes in perilesional tissue following stroke, and how brain stimulation (informed by computational modelling) can be used to target and renormalize abberant activity in these regions. 
+
 
 
 
