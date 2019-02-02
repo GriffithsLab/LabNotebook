@@ -9,7 +9,9 @@ active = true
 date = 2016-04-20T00:00:00
 
 title = "Talks & Teaching"
-subtitle = ""
+subtitle = "A selection of slides, videos, and code from recent talks and tutorial workshops on a variety of topics."
+
+
 
 # Order that this section will appear in.
 weight = 5
