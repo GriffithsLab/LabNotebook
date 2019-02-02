@@ -26,14 +26,13 @@ widget_layout = 1
 +++
 
 
+
+
 <div align="center"> <font face="calibri" color="purple" weight="bold" size=20> We're hiring! </font> </div>
 
+<div align="center"> <img src="/img/KitchenerYou.jpg" align="center" margin="15px 15px 15px 15px" width="300" /> </div>
 
-<div align="center"> <img src="/img/KCNI_logo_transparent.png" align="center" margin="15px 15px 15px 15px" width="300" /> </div>
-
-<div align="center"> <img src="/img/CAMH_KCNI_logo.jpg" align="center" margin="15px 15px 15px 15px" width="300" /> </div>
-
-<div align="center"> Students and post-docs interested in joining the lab, get in touch. More info <a href="/positions">here</a> </div>. 
+<div align="center"> ...And we want you. Students and post-docs interested in joining the lab, get in touch. More info <a href="/positions">here</a> </div>. 
 
 
 
