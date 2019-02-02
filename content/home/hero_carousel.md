@@ -75,3 +75,5 @@ height = "500px"
 
 
 +++
+
+<img src="/img/KCNI_logo_transparent.png width="400"/>
