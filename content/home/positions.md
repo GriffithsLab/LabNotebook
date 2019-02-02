@@ -21,6 +21,9 @@ view = 1
 
 +++
 
+
+<img src="/img/KCNI_WereHiring.jpg" align="right" margin="15px 15px 15px 15px" width="300" />
+
 Students and post-docs interested in joining the lab, get in touch. 
 
 More info [here](/positions).
