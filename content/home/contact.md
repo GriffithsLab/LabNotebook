@@ -24,8 +24,8 @@ email_form = 0
 +++
 
 
-<div align="right"> <img src="/img/KCNI_logo_transparent.png" align="right" margin="15px 15px 15px 15px" width="300" /> </div>
+<div align="center"> <img src="/img/KCNI_logo_transparent.png" align="center" margin="15px 15px 15px 15px" width="300" /> </div>
 
-<div align="right"> <img src="/img/CAMH_KCNI_logo.jpg" align="right" margin="15px 15px 15px 15px" width="300" /> </div>
+<div align="center"> <img src="/img/CAMH_KCNI_logo.jpg" align="center" margin="15px 15px 15px 15px" width="300" /> </div>
 
  
