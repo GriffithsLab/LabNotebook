@@ -67,7 +67,7 @@ enableGitInfo = false
   # Details for the Contact Widget
   email = "john.griffiths@camh.ca"
   #address = "CAMH, 250 College Street, Toronto, Canada"
-  address = "Centre for Addiction and Mental Health (CAMH), 33 Russell Street, Toronto ON"
+  address = "Krembil Centre for Neuroinformatics (KCNI); Centre for Addiction and Mental Health (CAMH), 33 Russell Street, Toronto ON"
 
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "888 888 88 88"
