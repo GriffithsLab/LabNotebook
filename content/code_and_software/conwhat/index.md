@@ -37,8 +37,8 @@ url_code = ""
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
-#  # Caption (optional)
-#  caption = "Photo by rawpixel on Unsplash"
+  #  # Caption (optional)
+  #  caption = "Photo by rawpixel on Unsplash"
   display_only = true
   
   
@@ -53,7 +53,7 @@ url_code = ""
 ConWhAt (for Connectome-based White matter Atlas Analyses) is a tool for studying the effects of white matter damage on brain networks.
 
 
-<img src="/img/conwhat_logo.png" align="right" margin="15px 15px 15px 15px" width="150" /> 
+<img src="/img/conwhat_atlas_fig.png" align="right" margin="15px 15px 15px 15px" width="150" /> 
 
 Its primary functionality is connectome-based white matter atlas analysis, for which it uses a set of connectome-based white matter 
 atlases developed by our research group for this purpose, as well as (optionally) similar atlases developed by other groups. ConWhAt 
