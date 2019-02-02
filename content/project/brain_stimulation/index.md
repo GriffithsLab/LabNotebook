@@ -46,11 +46,24 @@ url_code = ""
 
 +++
 
-Models of brain stimulation, and particularly how periodic brain stimulation interacts with ongoing neural oscillations, are a major focus of our current work. We find that a thalamocortical loop motif consisting of excitatory and inhibitory cortical neuronal populations, and excitatory (relay) and inhibitory (reticular) thalamic nuclei, can reproduce a large amount of the empirical pheonomena measured with resting state M/EEG (Griffiths & Lefebvre, in press). We are now investigating how the topological structure of the cortex interacts with the rhythmogenic properties of this base circuit motif.
+Brain stimulation is both a fundamental tool for studying basic principles of neuronal function, and an increasingly used therapeutic technique in clinical neurology and neuropsychiatry. Our work on computational models of neurostimulation spans both of these domains, with particular focus on oscillatory network dynamics and transcranial magnetic stimulation (TMS) therapy for major depressive disorder. 
 
 <img src="/img/tc_model_arnold_tongues.png" align="right" margin="15px 15px 15px 15px" width="300" />
 
-Driving this system with periodic electric stimulation produces Arnold Tongues and resonance effects that depend on both the noise and the time delay structure of the underlying neural system, as well as its current state - which (like the EEG) shows endogeneous fluctuations between regimes of synchronous alpha activity and periods of relatively more asynchronous high-frequency activity.
+Our recent work on this has explored brain stimulation in the thalamocortical system. Driving this system with periodic electric stimulation produces Arnold Tongues and resonance effects that depend on both the noise and the time delay structure of the underlying neural system, as well as its current state - which (like the EEG) shows endogeneous fluctuations between regimes of synchronous alpha activity and periods of relatively more asynchronous high-frequency activity.
 
 
-A key question for our future work in modelling brain stimulation is *plasticity*: How to oscillatory changes due to TMS obtain from the treatment, continuing to have long-term efficacious effects weeks or months down the line. 
+Key questions for future work: 
+
+1. *Plasticity*: How to oscillatory changes due to TMS obtain from the treatment, continuing to have long-term efficacious effects weeks or months down the line. 
+2. *Propagation*: How does stimulation at one site propagate to distal brain regions? How can we make use of anatomical and functional brain connectivity information, combined with neurophysiological models, to map out the network effects of focal noninvasive stimulation?
+
+
+
+
+
+
+
+
+
+
