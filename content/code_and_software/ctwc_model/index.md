@@ -9,12 +9,13 @@ date = ""
 
 summary = "Python code from an in-house implementation of our new thalamocortical wilson-cowan (TCWC) model."
 
+draft = true 
 
 An example of using the in-built project page."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-# tags = ["teaching"]
+# tags = ["teaching"] and
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
