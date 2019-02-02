@@ -25,9 +25,6 @@ widget_layout = 1
 
 +++
 
-
-
-
 <div align="center"> <font face="calibri" color="purple" weight="bold" size=20> We're hiring! </font> </div>
 
 <div align="center"> <img src="/img/KitchenerYou.jpg" align="center" margin="15px 15px 15px 15px" width="300" /> </div>
