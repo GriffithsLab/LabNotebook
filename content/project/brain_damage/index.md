@@ -49,9 +49,9 @@ url_code = ""
 
 +++
 
-The effects of white matter damage on cognitive and neural function has been a subject of major interest for me for many years. In my PhD work I studied how different spatial profiles of damage following stroke resulted in differential types of linguistic impairments.
-
 <img src="/img/griffiths2013_tracts.png" align="right" margin="15px 15px 15px 15px" width="400" />
+
+The effects of white matter damage on cognitive and neural function has been a subject of major interest for me for many years. In my PhD work I studied how different spatial profiles of damage following stroke resulted in differential types of linguistic impairments.
 
 A large part of my current work asks similar questions from a more systems level perspective: what is the impact of a given spatial profile of damage on the topological structure and dynamic behaviour in connectome-based neural mass models? 
 
