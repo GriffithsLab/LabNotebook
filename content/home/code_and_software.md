@@ -3,10 +3,10 @@
 #widget = "research"
 widget = "projects"
 active = true
-date = 2016-04-20T00:00:00
+#date = 2016-04-20T00:00:00
 
 title = "Code & Software"
-subtitle = ""
+subtitle = "Pointers to various code and software tools that we have either developed ourselves, or use extensively. Non-exhaustive list!"
 
 # Order that this section will appear in.
 weight = 6
