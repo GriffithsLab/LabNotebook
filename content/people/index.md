@@ -2,7 +2,7 @@
 #title = "People"
 title = "People"
 
-date = 2018-09-09T00:00:00
+#date = 2018-09-09T00:00:00
 # lastmod = 2018-09-09T00:00:00
 
 draft = false  # Is this a draft? true/false
