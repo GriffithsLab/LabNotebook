@@ -45,15 +45,13 @@ Dr. Griffiths has a strong technical expertise in multimodal neuroimaging data a
 
 ---
 
-<br>
-<br>
-<br>
-
 <img src="/img/KitchenerYou.jpg" align="right" margin="15px 15px 15px 15px" width="300" />
 
-### Your name here!
+### Your name here...
 
-We want you! Students and post-docs interested in joining the lab - see [positions](/positions)
+We want you! 
+
+Students and post-docs interested in joining the lab - see [positions](/positions)
 
 
 <br>
