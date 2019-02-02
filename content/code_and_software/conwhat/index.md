@@ -39,6 +39,7 @@ url_code = ""
 [image]
 #  # Caption (optional)
 #  caption = "Photo by rawpixel on Unsplash"
+  display_only = false
   
   
 # Focal point (optional)
