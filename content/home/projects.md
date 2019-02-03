@@ -22,7 +22,7 @@ folder = "project"
 # Customize how projects are displayed.
 # Legend: 0 = list, 1 = cards, 2 = showcase.
 #view = 1
-view = 2
+view = 1
 
 # Widget layout
 # Legend: 0 = two columns (default), 1 = single column
