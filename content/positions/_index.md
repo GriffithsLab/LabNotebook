@@ -1,6 +1,6 @@
 +++
 title = "Positions"
-date = 2017-01-01T00:00:00
+#date = 2017-01-01T00:00:00
 
 # List format.
 #   0 = Simple
@@ -33,12 +33,12 @@ We are looking for a post-docs with a background in neuroimaging and/or computat
 
 ## Graduate Students
 
-We are looking for Masters and PhD students. Interested students please get in touch at john.griffiths@camh.ca
+We are looking for Masters and PhD students with strong computational skills and interest in neuroimaging, computational neuroscience, and cognition + mental health. Interested students please get in touch at john.griffiths@camh.ca, including full transcripts and a 1-page statement of your interests and why you think you would be a good fit for the lab. 
 
 
 ## Undergraduate Students
 
-We are also looking for undergraduate students with some experience in programming and data analysis. Interested students should contact John with a few sentences outlining their interests and a list of relevant coursework.
+We are also looking for undergraduate students with some experience in programming and data analysis. Interested students should contact Dr. Griffiths with a few sentences outlining their interests and a list of relevant coursework.
 
 
 
