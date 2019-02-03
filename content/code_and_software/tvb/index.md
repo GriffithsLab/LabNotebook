@@ -39,6 +39,7 @@ url_code = ""
 # [image]
 #  # Caption (optional)
 #  caption = "Photo by rawpixel on Unsplash"
+  preview_only = true
   
 #  # Focal point (optional)
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -47,6 +48,8 @@ url_code = ""
 
 +++
 
+
+<img src="/img/tvb_logo.png" align="right" margin="15px 15px 15px 15px" width="150" /> 
 
 My work involves using and developing the TVB platform. As well as the main trunk, I have extensions for scripting, neuroimaging workflow management (tvb-nipype), and simulation workflow management (tvb-sumatra).
 
