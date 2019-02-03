@@ -31,7 +31,6 @@ type = "docs"  # Do not modify.
 ---
 
 
-<img src="/img/John_Griffiths_Photo.png" style="margin:100px 100px" align="right" width="300" />
 
 ### Dr. John David Griffiths 
 ***Group Lead***
@@ -40,6 +39,8 @@ type = "docs"  # Do not modify.
 
 
 Dr. Griffiths is a cognitive and computational neuroscientist from Wigan in the North of England. He completed his undergraduate training in psychology and philosophy at the University of Warwick, and graduate training in neuroimaging and cognitive neuroscience at the University of York (advisor Prof. Gary Green) and University of Cambridge (advisor Prof. Lorraine Tyler). He then worked as a post-doctoral fellow in the University of Sydney School of Physics (with Prof. Peter Robinson), and the at the Rotman Research Institute (with Dr. Randy McIntosh) and Krembil Research Institute (with Dr. Jeremie Lefebvre) in Toronto, Canada. He joined the Krembil Centre for Neuroinformatics at CAMH and the University of Toronto as a Scientist and Assistant Professor in January 2019. 
+
+<img src="/img/John_Griffiths_Photo.png" style="margin:100px 10px" align="right" width="300" />
 
 Dr. Griffiths has a strong technical expertise in multimodal neuroimaging data analysis, scientific computing, and numerical simulations of large-scale brain dynamics. Through his work with Dr. Mcintosh and colleagues in Europe and the US, he is an active conitrbutor to the scientific, software development, and educational missions of the [Virtual Brain Project](https://www.thevirtualbrain.org/tvb/zwei).
 
