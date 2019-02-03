@@ -7,7 +7,7 @@ active = true
 date = ""
 
 title = "Research"
-subtitle = ""
+subtitle = "We have a number of ongoing research projects in the areas of computational neuroscience, neuroimaging, and neuroinformatics. Click the links below for details."
 
 # Order that this section will appear in.
 weight = 2
@@ -56,7 +56,3 @@ filter_default = 0
 #  tag = "Demo"
 
 +++
-
-We have a number of ongoing research projects in the areas of computational neuroscience, neuroimaging, and neuroinformatics. Click the links below for details. 
-
-
