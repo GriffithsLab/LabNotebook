@@ -30,7 +30,7 @@ type = "docs"  # Do not modify.
 
 ---
 
-### Dr. John David Griffiths 
+### Dr. John David Griffiths    
 ***Group Lead***
 
 
