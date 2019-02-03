@@ -29,11 +29,10 @@ type = "docs"  # Do not modify.
 
 ---
 
+<div align="right"> <img src="/img/John_Griffiths_Photo.png" style="margin:100px 50px 100px 50px" align="right" width="250" /> </div>
+
 ### Dr. John David Griffiths    
 ***Group Lead***
-
-
-<div align="right"> <img src="/img/John_Griffiths_Photo.png" style="margin:100px 100px 100px 100px" align="right" width="200" /> </div>
 
 
 [CV](/files/JG_CV.pdf)
