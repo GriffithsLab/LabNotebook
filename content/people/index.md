@@ -21,6 +21,8 @@ type = "docs"  # Do not modify.
 #  name = "Collaborators"
 #  weight = 1
 
+#<div align="right"> <img src="/img/John_Griffiths_Photo.png" style="margin:100px 100px 30px 30px" align="right" width="200" /> </div>
+
 +++
 
 ## Lab Members 
@@ -32,7 +34,7 @@ type = "docs"  # Do not modify.
 ***Group Lead***
 
 
-<div align="right"> <img src="/img/John_Griffiths_Photo.png" style="margin:100px 100px 30px 30px" align="right" width="200" /> </div>
+<img src="/img/John_Griffiths_Photo.png" align="right" width="200" vspace="100" />
 
 
 [CV](/files/JG_CV.pdf)
