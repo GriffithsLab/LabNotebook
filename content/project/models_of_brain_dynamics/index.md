@@ -4,7 +4,7 @@ title = "Computational and theoretical models of brain dynamics"
 
 # Date this page was created.
 #date = 2016-04-27T00:00:00
-date = 2019-01-01
+date = 2019-01-03
 
 # JG_ADD; c.f. hugo.io conversation
 showFooter = false
