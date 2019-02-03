@@ -31,7 +31,7 @@ type = "docs"  # Do not modify.
 ---
 
 
-<img src="/img/John_Griffiths_Photo.png" margin="100px 100px 100px 100px" align="right" width="300" />
+<img src="/img/John_Griffiths_Photo.png" margin="200px 200px 200px 200px" align="right" width="300" />
 
 ### Dr. John David Griffiths 
 ***Group Lead***
