@@ -11,8 +11,6 @@ summary = "Python code from an in-house implementation of our new thalamocortica
 
 draft = true 
 
-An example of using the in-built project page."
-
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 # tags = ["teaching"] and
