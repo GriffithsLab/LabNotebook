@@ -26,8 +26,6 @@ type = "docs"  # Do not modify.
 ## Lab Members 
 
 
-<div>
-
 ---
 
 ### Dr. John David Griffiths    
