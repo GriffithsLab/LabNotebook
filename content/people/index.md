@@ -34,7 +34,7 @@ type = "docs"  # Do not modify.
 ***Group Lead***
 
 
-<img src="/img/John_Griffiths_Photo.png" align="right" width="200" vspace="100" />
+<img src="/img/John_Griffiths_Photo.png" align="right" width="200" vspace="200" hspace="100" />
 
 
 [CV](/files/JG_CV.pdf)
