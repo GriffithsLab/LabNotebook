@@ -22,7 +22,7 @@ caption = ""
 
 We want you!
 
-<img style="align: right; margin: 15px 15px 15px 15px;" src="/img/KitchenerYou.jpg" width="300" />
+<img style="align: right; margin: 15px 15px 15px 15px;" src="/img/KitchenerYou_transparent.png" width="300" />
 
 
 
