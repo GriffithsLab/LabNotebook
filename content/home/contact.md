@@ -21,6 +21,10 @@ autolink = false
 #   2: formspree.io
 #email_form = 2
 email_form = 0
+
+twitter = "neurodidact"
+
+github = "GriffithsLab"
 +++
 
  
