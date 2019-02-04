@@ -22,8 +22,6 @@ caption = ""
 <img align="center" src="/img/KCNI_WereHiring.jpg" width="600" />
 
 <br>
-<br>
-<br>
 
 ## PostDocs
 
