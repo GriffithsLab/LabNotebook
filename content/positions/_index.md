@@ -28,8 +28,7 @@ We want you!
 
 ## PostDocs
 
-We are looking for a post-docs with a background in neuroimaging and/or computational neuroscience to lead a project on computational modelling of neural dynamics in relation to EEG-TMS, plasticity, and personalized anatomical+functional connectivity models. See the full description [here](/positions).
-
+We are looking for a post-docs with a background in neuroimaging and/or computational neuroscience to lead a project on computational modelling of neural dynamics in relation to EEG-TMS, plasticity, and personalized anatomical+functional connectivity models. See the full description [here](https://drive.google.com/open?id=1143QvunC8A1bdV5Ou5logPLp0_jP3CL8).
 
 ## Graduate Students
 
