@@ -116,6 +116,7 @@ enableGitInfo = false
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
   #sharing_image = "cartoon_brain_reading_a_book.png"
+  sharing_image = "KCNI_WBM_logo.png"
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
   twitter = "neurodidact"
