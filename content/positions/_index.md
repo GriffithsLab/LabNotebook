@@ -19,12 +19,7 @@ caption = ""
 ---
 
 
-
-We want you!
-
-<img style="align: right; margin: 15px 15px 15px 15px;" src="/img/KCNI_WereHiring.jpg" width="300" />
-
-
+<img style="align: center; margin: 15px 15px 15px 15px;" src="/img/KCNI_WereHiring.jpg" width="600" />
 
 ## PostDocs
 
