@@ -74,7 +74,8 @@ enableGitInfo = false
   #skype = "echo123"
   #telegram = ""
   #keybase = ""  # Your keybase.io username.
-
+  github = "www.github.com/JohnGriffiths"
+  
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
   #   discussion = { name = "Discuss", url = "https://discourse.gohugo.io" }
