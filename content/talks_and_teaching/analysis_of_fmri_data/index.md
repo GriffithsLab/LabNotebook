@@ -9,7 +9,7 @@ widgets = false
 
 # Project summary to display on homepage.
 #summary = "An example of using the in-built project page."
-summary = "Lecture given at the Canadian Association for Neuroscience Meeting Satellite workshop: *Neural signal and image processing: quantitative analysis of neural activity*"
+summary = "Lecture given by JG at the Canadian Association for Neuroscience Meeting Satellite workshop: *Neural signal and image processing: quantitative analysis of neural activity*"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
