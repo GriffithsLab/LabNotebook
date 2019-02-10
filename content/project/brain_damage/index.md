@@ -68,7 +68,7 @@ In order to help address questions like this, we are developing a new software l
 <br>
 <br>
 
-Together with [Jed Meltzer's team](http://research.baycrest.org/jmeltzer) from the Rotman Research Institute at Baycrest hospital, we are also beginning to investigate physiological changes in perilesional tissue following stroke, and how brain stimulation (informed by computational modelling) can be used to target and renormalize abberant activity in these regions. 
+Together with [Jed Meltzer](http://research.baycrest.org/jmeltzer)'s team from the Rotman Research Institute at Baycrest hospital, we are also beginning to investigate physiological changes in perilesional tissue following stroke, and how brain stimulation (informed by computational modelling) can be used to target and renormalize abberant activity in these regions. 
 
 
 
