@@ -9,7 +9,7 @@ date = ""
 
 # Project summary to display on homepage.
 #summary = "An example of using the in-built project page."
-summary = "Workshop given at Rotman Research Institute"
+summary = "Workshop given by JG at Rotman Research Institute"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
