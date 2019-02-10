@@ -7,7 +7,7 @@ date = 2017-03-01T00:00:00
 
 # Project summary to display on homepage.
 #summary = "An example of using the in-built project page."
-summary = "Second of the two lectures I gave at the Banff International Research Station (BIRS) workshop on Topological Methods in Brain Network Analysis"
+summary = "Second of the two lectures given at the Banff International Research Station (BIRS) workshop on Topological Methods in Brain Network Analysis"
 
 
 # Tags: can be used for filtering projects.
