@@ -57,7 +57,7 @@ Our recent work on this has explored brain stimulation in the thalamocortical sy
 
 Key questions for future work: 
 
-1. *Plasticity*: How to oscillatory changes due to TMS obtain from the treatment, continuing to have long-term efficacious effects weeks or months down the line. 
+1. *Plasticity*: How do oscillatory changes due to TMS obtain from the treatment, continuing to have long-term efficacious effects weeks or months down the line. 
 2. *Propagation*: How does stimulation at one site propagate to distal brain regions? How can we make use of anatomical and functional brain connectivity information, combined with neurophysiological models, to map out the network effects of focal noninvasive stimulation?
 
 
