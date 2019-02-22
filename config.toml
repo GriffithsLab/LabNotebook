@@ -409,7 +409,7 @@ enableGitInfo = false
 
 
 [[menu.main]]
-  name = "Positions"
+  name = "Join us!"
   url = "/positions"
   weight = 8
 
