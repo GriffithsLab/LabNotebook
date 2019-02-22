@@ -50,13 +50,14 @@ url_code = ""
 
 +++
 
+<img src="/img/eeg-notebooks_montage.png" align="right" margin="15px 15px 15px 15px" width="150" /> 
 
 eeg-notebooks is a python-based software library that provides a simple end-to-end platform for conducting cognitive neuroscience experiments using consumer-grade EEG technology. It emerged out of the close relationship between our good friends at NeuroTechX [NeuroTechX](https://neurotechx.com/) and other other good friends at InterAxon (just down the road from CAMH). Using eeg-notebooks together with a standard laptop computer and ~$200 EEG headset such as the Interaxon MUSE, one can conduct high-quality event-related potential (ERP) experiments that traditionally require research-grade equipment costing tens of thousands of dollars.  This opens up the door to a myriad of exciting neuroscience research and education possibilities. 
 
-<img src="/img/eeg-notebooks_montage.png" align="right" margin="15px 15px 15px 15px" width="150" /> 
+{{< tweet 988410404295426048 >}}
+
 
 One of these, which we have been closely involved in, is using eeg-notebooks as a vehicle for STEM (Science, Technology, Engineering, Mathematics) education in high-schools. This has been spearheaded in Toronto by the Rotman-Baycrest based initiative [NeuroBRITE](https://www.baycrest.org/Baycrest-Pages/News-Media/News/Research/next-generation-of-cognitive-neuroscientists), and in New York by the [brainwaves](https://wp.nyu.edu/brainwaves/) project.
 
-{{< tweet 988410404295426048 >}}
 
 
