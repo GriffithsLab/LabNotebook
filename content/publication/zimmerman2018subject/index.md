@@ -59,7 +59,7 @@ tags = []
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #url_custom = [{name = "Custom Link", url = "http://example.org"}]
-#url_custom = [{name = "url", url = "https://www.frontiersin.org/articles/10.3389/fams.2018.00031/full"}]
+url_custom = [{name = "url", url = "https://www.mitpressjournals.org/doi/full/10.1162/netn_a_00055"}]
 
 # Digital Object Identifier (DOI)
 #doi = "10.3389/fams.2018.00031"
