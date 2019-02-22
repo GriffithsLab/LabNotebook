@@ -1,7 +1,7 @@
 +++
 title = "A connectome-based, corticothalamic model of state- and stimulation-dependent modulation of rhythmic neural activity and connectivity"
 date = 2019-01-30T00:00:00
-draft = true
+draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["John D. Griffiths", "Anthony R. McIntosh", "Jérémie Lefebvre"]
@@ -19,8 +19,10 @@ authors = ["John D. Griffiths", "Anthony R. McIntosh", "Jérémie Lefebvre"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Frontiers in Applied Mathematics and Statistics"
-publication_short = "Front. Appl. Math Stat."
+#publication = "Frontiers in Applied Mathematics and Statistics"
+#publication_short = "Front. Appl. Math Stat."
+publication = "(Submitted)"
+publication_short = "(Submitted)"
 
 # Abstract and optional shortened version.
 abstract = ""
