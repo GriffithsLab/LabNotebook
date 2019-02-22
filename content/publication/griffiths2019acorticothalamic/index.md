@@ -19,8 +19,10 @@ authors = ["John D. Griffiths", "Anthony R. McIntosh", "Jérémie Lefebvre"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Frontiers in Applied Mathematics and Statistics"
-publication_short = "Front. Appl. Math Stat."
+#publication = "Frontiers in Applied Mathematics and Statistics"
+#publication_short = "Front. Appl. Math Stat."
+publication = "(Submitted)"
+publication_short = "(Submitted)"
 
 # Abstract and optional shortened version.
 abstract = ""
