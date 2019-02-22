@@ -57,8 +57,6 @@ eeg-notebooks is a python-based software library that provides a simple end-to-e
 
 One of these, which we have been closely involved in, is using eeg-notebooks as a vehicle for STEM (Science, Technology, Engineering, Mathematics) education in high-schools. This has been spearheaded in Toronto by the Rotman-Baycrest based initiative [NeuroBRITE](https://www.baycrest.org/Baycrest-Pages/News-Media/News/Research/next-generation-of-cognitive-neuroscientists), and in New York by the [brainwaves](https://wp.nyu.edu/brainwaves/) project.
 
-<img url="https://twitter.com/neurodidact/status/988410404295426048" align="right" magin="15px 15px 15px 15px" width="150" />
-
-
+{{< tweet 988410404295426048 >}}
 
 
