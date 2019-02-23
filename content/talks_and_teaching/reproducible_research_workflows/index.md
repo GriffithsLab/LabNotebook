@@ -55,6 +55,8 @@ url_custom = [{icon_pack = "fab", icon="youtube", name="Video recording", url = 
 
 +++
 
-{{< youtube id="dVGVBMb6kzo" autoplay="false" >}}
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="//www.youtube.com/embed/dVGVBMb6kzo?autoplay=1" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
 
 
