@@ -34,8 +34,8 @@ url_slides = "https://drive.google.com/open?id=0BxmhnBwE8JdDMWJtN2VfZkxwMXM"
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
 
-url_custom = [{icon_pack = "fab", icon="youtube", name="Video recording", url = "https://youtu.be/cJktVEiLJv"},
-              {icon_pack = "fab", icon="github", name = "BIRS Workshop session website", url="http://www.birs.ca/events/2017/5-day-workshops/17w5043/videos/watch/201705080910-Griffiths.html"}]
+url_custom = [{icon_pack="fab", icon="youtube", name="Video recording", url="https://youtu.be/cJktVEiLJv"},
+              {icon_pack="fab", icon="github", name="BIRS Workshop session website", url="http://www.birs.ca/events/2017/5-day-workshops/17w5043/videos/watch/201705080910-Griffiths.html"}]
 
 
 # Featured image
@@ -52,7 +52,7 @@ url_custom = [{icon_pack = "fab", icon="youtube", name="Video recording", url = 
 
 +++
 
-{{< youtube id=""cJktVEiLJvA" autoplay="true" >}}
-
-
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="//www.youtube.com/embed/cJktVEiLJvA?autoplay=1" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
 
