@@ -37,9 +37,9 @@ url_code = ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-# [image]
-#  # Caption (optional)
-#  caption = "Photo by rawpixel on Unsplash"
+[image]
+  #  # Caption (optional)
+  #  caption = "Photo by rawpixel on Unsplash"
   preview_only = true
   
 #  # Focal point (optional)
@@ -49,13 +49,9 @@ url_code = ""
 
 +++
 
-
 <img src="/img/tvb_logo.png" align="right" margin="15px 15px 15px 15px" width="150" /> 
 
-My work involves using and developing the TVB platform. As well as the main trunk, I have extensions for scripting, neuroimaging workflow management (tvb-nipype), and simulation workflow management (tvb-sumatra).
+[The Virtual Brain (TVB)](https://www.thevirtualbrain.org/tvb/zwei) is a modelling and neuroinformatics platform for simulating meso-scale whole-brain neural activity. TVB is the brainchild of our colleagues Randy McIntosh Viktor Jirsa, and is one of the principal tools we use in our computational modelling research work. 
 
-
-
-
-
+As members of the 'extended' TVB team, we provide technical support on the [Forum](https://groups.google.com/forum/?nomobile=true#!forum/tvb-users), teach regularly at workshops, and develop new technical features and applications. 
 
