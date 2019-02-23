@@ -49,7 +49,7 @@ url_code = ""
 
 +++
 
-<img src="/img/tvb_logo.png" align="right" margin="15px 15px 15px 15px" width="150" /> 
+<img src="/img/tvb_logo.png" align="right" margin="15px 15px 15px 15px" width="250" /> 
 
 [The Virtual Brain (TVB)](https://www.thevirtualbrain.org/tvb/zwei) is a modelling and neuroinformatics platform for simulating meso-scale whole-brain neural activity. TVB is the brainchild of our colleagues Randy McIntosh Viktor Jirsa, and is one of the principal tools we use in our computational modelling research work. 
 
