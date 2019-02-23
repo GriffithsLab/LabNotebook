@@ -55,7 +55,7 @@ url_code = ""
 
 As members of the 'extended' TVB team, we provide technical support on the [Forum](https://groups.google.com/forum/?nomobile=true#!forum/tvb-users), teach regularly at workshops, and develop new technical features and applications. 
 
-Newbies to TVB: check out the main website and the [github organization](https://github.com/the-virtual-brain); and particularly the jupyter notebook [demos](https://github.com/the-virtual-brain/tvb-documentation/tree/master/demos) and [tutorials](https://github.com/the-virtual-brain/tvb-documentation/tree/master/tutorials). There are also a variety of handy TVB nuggets from us in the [TVB entries on the JDG LabNotebook](https://johngriffiths.github.io/LabNotebook/tag/tvb.html).
+Newbies to TVB: check out the main website and the [github organization](https://github.com/the-virtual-brain); and particularly the jupyter notebook [demos](https://github.com/the-virtual-brain/tvb-documentation/tree/master/demos) and [tutorials](https://github.com/the-virtual-brain/tvb-documentation/tree/master/tutorials). There are also a variety of handy nuggets from us in the [TVB entries](https://johngriffiths.github.io/LabNotebook/tag/tvb.html) on the JDG LabNotebook.
 
 
 And of course everyone should take a minute to watch the awesome TVB short movie...
