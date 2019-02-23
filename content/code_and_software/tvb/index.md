@@ -58,7 +58,7 @@ As members of the 'extended' TVB team, we provide technical support on the [Foru
 Newbies to TVB: check out the main website and the [github organization](https://github.com/the-virtual-brain); and particularly the jupyter notebook [demos](https://github.com/the-virtual-brain/tvb-documentation/tree/master/demos) and [tutorials](https://github.com/the-virtual-brain/tvb-documentation/tree/master/tutorials). There are also a variety of handy TVB nuggets from us in the [TVB entries on the JDG LabNotebook](https://johngriffiths.github.io/LabNotebook/tag/tvb.html).
 
 
-And of course everyone should take a minute to watch the awesome TVB short movie: 
+And of course everyone should take a minute to watch the awesome TVB short movie...
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="//www.youtube.com/embed/RZgULkLKqu8?autoplay=1" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
