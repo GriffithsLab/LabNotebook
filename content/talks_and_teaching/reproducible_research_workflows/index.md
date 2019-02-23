@@ -54,3 +54,7 @@ url_custom = [{icon_pack = "fab", icon="youtube", name="Video recording", url = 
 
 
 +++
+
+{{< youtube id="dVGVBMb6kzo" autoplay="false" >}}
+
+
