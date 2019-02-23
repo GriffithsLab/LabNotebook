@@ -38,8 +38,8 @@ external_link = ""
 #url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
 
 
-url_custom = [{icon_pack = "fab", icon="youtube", name="Video recording", url =               "https://youtu.be/dVGVBMb6kzo"},
-             {icon_pack = "fab", icon="github", name="Github repo", url = "https://github.com/JohnGriffiths/UofT_Coders_Talk_March2018"}]
+url_custom = [{icon_pack = "fab", icon="youtube", name="Video recording", url="https://youtu.be/dVGVBMb6kzo"},
+              {icon_pack = "fab", icon="github", name="Github repo", url="https://github.com/JohnGriffiths/UofT_Coders_Talk_March2018"}]
 
 
 # Featured image
