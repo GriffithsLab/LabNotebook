@@ -25,7 +25,7 @@ caption = ""
 
 ## PostDocs
 
-We are looking for a post-docs with a background in neuroimaging and/or computational neuroscience to lead a project on computational modelling of neural dynamics in relation to EEG-TMS, plasticity, and personalized anatomical+functional connectivity models. See the full description [here](https://www.grifflab.com/files/KCNI_WBG_PostDocAd_Feb2019.pdf).
+We are looking for a post-docs with a background in neuroimaging and/or computational neuroscience to lead a project on computational modelling of neural dynamics in relation to EEG-TMS, plasticity, and personalized anatomical+functional connectivity models. See the full description [here](https://www.grifflab.com/files/KCNI_WBMG_PostDocAd_Feb2019.pdf).
 
 
 ## Graduate Students
