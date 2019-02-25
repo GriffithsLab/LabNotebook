@@ -25,18 +25,15 @@ caption = ""
 
 ## PostDocs
 
-We are looking for a post-docs with a background in neuroimaging and/or computational neuroscience to lead a project on computational modelling of neural dynamics in relation to EEG-TMS, plasticity, and personalized anatomical+functional connectivity models. See the full description [here](https://www.grifflab.com/files/KCNI_WBMG_PostDocAd_Feb2019.pdf).
+We are looking for a post-docs with a strong background in neuroimaging and/or computational neuroscience to lead a project on computational modelling of neural dynamics in relation to EEG-TMS, plasticity, and personalized anatomical+functional connectivity models. See the full description [here](https://www.grifflab.com/files/KCNI_WBMG_PostDocAd_Feb2019.pdf).
 
 
 ## Graduate Students
 
-We are looking for Masters and PhD students with strong computational skills and interest in neuroimaging, computational neuroscience, and cognition + mental health. Interested students please get in touch at john.griffiths@camh.ca, including full transcripts and a 1-page statement of your interests and why you think you would be a good fit for the lab. 
+We are looking for Masters and PhD students with strong computational skills and a keen interest in neuroimaging, computational neuroscience, and cognition and mental health. Interested students please get in touch at john.griffiths@camh.ca, including a full university transcript, resume/CV, and a 1-page statement of your research interests that also clearly outlines why you think you would be a good fit for the lab. 
 
 
 ## Undergraduate Students
 
-We are also looking for undergraduate students with some experience in programming and data analysis. Interested students should contact Dr. Griffiths with a few sentences outlining their interests and a list of relevant coursework.
-
-
-
+We are also looking for undergraduate students with some experience in programming and data analysis. Interested students should contact Dr. Griffiths at john.griffiths@camh.ca, including your current university transcript showing grades and relevant coursework, and a few sentences that outline your interest in joining the lab. 
 
