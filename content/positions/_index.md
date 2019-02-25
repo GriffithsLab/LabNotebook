@@ -45,6 +45,6 @@ We are looking for Masters and PhD students with strong computational skills and
 We are also looking for undergraduate students with some experience in programming and data analysis. Interested students should contact Dr. Griffiths at john.griffiths@camh.ca, including your current university transcript showing grades and relevant coursework, and a few sentences that outline your interest in joining the lab. 
 
 
-
-<meta name="twitter:image" content="https://www.grifflab.com/img/KCNI_WereHiring.jpg" >
+<meta property="twitter:image" content="https://www.grifflab.com/img/KCNI_WereHiring.jpg">
+ 
 
