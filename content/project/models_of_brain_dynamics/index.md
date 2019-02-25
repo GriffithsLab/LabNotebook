@@ -67,7 +67,7 @@ Together with Dr. Jeremie Lefebvre of the [*Sync* Lab](https://sites.google.com/
 
 We find that a thalamocortical loop motif consisting of excitatory and inhibitory cortical neuronal populations, and excitatory (relay) and inhibitory (reticular) thalamic nuclei, can reproduce a large amount of the empirical pheonomena measured with resting state M/EEG. We are now investigating how the topological structure of the cortex interacts with the rhythmogenic properties of this base circuit motif.
 
-In a different line of work, together with Prof. Peter Robinson and colleagues at the University of Sydney, on macroscopic neural field models for large-scale brain dynamics. These are generally formulated in terms of second-order partial differential (wave) equations that are substantially simpler to work with analytically than the stochastic delay-differential equation numerically integrated in TVB simulations. In particular, we have studied the role of the spherical topology and physical embedding of the cerebral cortex on anatomical structure and dynamics. 
+A different line of work, done together with Prof. Peter Robinson and colleagues at the University of Sydney, focuses on macroscopic neural field models for large-scale brain dynamics. These are generally formulated in terms of second-order partial differential (wave) equations that are substantially simpler to work with analytically than the stochastic delay-differential equation numerically integrated in TVB simulations. In particular, we have studied the role of the spherical topology and physical embedding of the cerebral cortex on anatomical structure and dynamics. 
 
 <img src="/img/mode_topographies.png" width="400"/>
 

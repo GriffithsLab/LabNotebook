@@ -37,9 +37,9 @@ url_code = ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-# [image]
-#  # Caption (optional)
-#  caption = "Photo by rawpixel on Unsplash"
+[image]
+  #  # Caption (optional)
+  #  caption = "Photo by rawpixel on Unsplash"
   preview_only = true
   
 #  # Focal point (optional)
@@ -49,13 +49,18 @@ url_code = ""
 
 +++
 
+<img src="/img/tvb_logo.png" align="right" margin="15px 15px 15px 15px" width="250" /> 
 
-<img src="/img/tvb_logo.png" align="right" margin="15px 15px 15px 15px" width="150" /> 
+[The Virtual Brain (TVB)](https://www.thevirtualbrain.org/tvb/zwei) is a modelling and neuroinformatics platform for simulating meso-scale whole-brain neural activity. TVB is the brainchild of our colleagues Randy McIntosh Viktor Jirsa, and is one of the principal tools we use in our computational modelling research work. 
 
-My work involves using and developing the TVB platform. As well as the main trunk, I have extensions for scripting, neuroimaging workflow management (tvb-nipype), and simulation workflow management (tvb-sumatra).
+As members of the 'extended' TVB team, we provide technical support on the [Forum](https://groups.google.com/forum/?nomobile=true#!forum/tvb-users), teach regularly at workshops, and develop new technical features and applications. 
+
+Newbies to TVB: check out the main website and the [github organization](https://github.com/the-virtual-brain); and particularly the jupyter notebook [demos](https://github.com/the-virtual-brain/tvb-documentation/tree/master/demos) and [tutorials](https://github.com/the-virtual-brain/tvb-documentation/tree/master/tutorials). There are also a variety of handy nuggets from us in the [TVB entries](https://johngriffiths.github.io/LabNotebook/tag/tvb.html) on the JDG LabNotebook.
 
 
+And of course everyone should take a minute to watch the awesome TVB short movie...
 
-
-
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="//www.youtube.com/embed/RZgULkLKqu8?autoplay=1" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
 
