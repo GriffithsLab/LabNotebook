@@ -10,10 +10,17 @@ title = "Positions"
 #   4 = Stream
 list_format = 3
 
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = ""
-caption = ""
+# Featured image
+# To use, add an image named `featured.jpg/png` to your project's folder. 
+[image]
+  # Caption (optional)
+  #caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
+  #  # Focal point (optional)
+  #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  #  focal_point = ""
+  #  # Show image only in page previews?
+  preview_only = true
+
 +++
 
 ---
