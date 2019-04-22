@@ -51,7 +51,7 @@ url_code = ""
 +++
 
 
-[ConWhAt](https://github.com/JohnGriffiths/conwhat) (for Connectome-based White matter Atlas Analyses) is a tool for studying the effects of white matter damage on brain networks.
+ConWhAt (for Connectome-based White matter Atlas Analyses) is a tool for studying the effects of white matter damage on brain networks.
 
 
 <img src="/img/conwhat_atlas_fig.png" align="right" margin="15px 15px 15px 15px" width="150" /> 
