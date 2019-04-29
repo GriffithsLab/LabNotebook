@@ -1,2 +1,0 @@
-# griffithslab-website
-

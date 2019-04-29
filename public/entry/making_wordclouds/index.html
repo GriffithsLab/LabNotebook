@@ -1,0 +1,631 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.2.5">
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Hello!">
+
+  
+  <link rel="alternate" hreflang="en-us" href="/entry/making_wordclouds/">
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.min.a0afe72cd1619525a4d5a4824ac5755e.css">
+
+  
+
+  
+  
+  
+
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="/entry/making_wordclouds/">
+
+  
+  
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="og:site_name" content="Academic">
+  <meta property="og:url" content="/entry/making_wordclouds/">
+  <meta property="og:title" content="Making Word Clouds | Academic">
+  <meta property="og:description" content="Hello!"><meta property="og:image" content="/img/icon-192.png">
+  <meta property="og:locale" content="en-us">
+  
+  <meta property="article:published_time" content="2019-01-01T00:00:00-05:00">
+  
+  <meta property="article:modified_time" content="2019-01-01T00:00:00-05:00">
+  
+
+  
+
+  
+
+  <title>Making Word Clouds | Academic</title>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/">Academic</a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav mr-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#about">
+            
+            <span>Home</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/entry">
+            
+            <span>Entries</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+      
+      </ul>
+      <ul class="navbar-nav ml-auto">
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+
+<span id="homepage" class="d-none"></span>
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+
+  
+
+  
+    
+    
+    
+    
+  
+
+  
+    
+    
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  <section id="making_wordclouds" class="home-section wg-blank  parallax " style="background-image:  url(&#39;/img/grid_powerpoint_blueline.png&#39;);padding: 20px 0 20px 0;">
+    <div class="container">
+      
+
+
+<div class="row">
+  
+    <div class="col-lg-12">
+      
+      
+      
+
+<h1 id="making-wordclouds">Making WordClouds</h1>
+
+<p><strong><em>Entry format:</em></strong>  <em>as-you-go</em></p>
+
+<h2 id="notebook-setup">Notebook setup</h2>
+
+<p>Define some variables</p>
+
+<pre><code class="language-python">import os
+outdir = os.getcwd() + '/nb_outputs/making_wordclouds'
+if not os.path.isdir(outdir): os.makedirs(outdir)
+</code></pre>
+
+<p>Importage</p>
+
+<pre><code class="language-python"># Generic imports
+
+import os,sys,glob,h5py,itertools,multiprocessing,\
+       numpy as np,pandas as pd
+
+# Visualization stuff
+
+%matplotlib inline
+from matplotlib import pyplot as plt
+import seaborn as sns
+from IPython.display import display as d
+
+# PDF parsing and wordcloud stuff
+
+import PyPDF2
+from wordcloud import WordCloud
+</code></pre>
+
+<p>Install some libraries if needed</p>
+
+<pre><code class="language-bash">!pip install PyPDF2
+!pip install seaborn
+!pip install wordcloud
+</code></pre>
+
+<p>Go to output folder</p>
+
+<pre><code class="language-python">os.chdir(outdir)
+</code></pre>
+
+<p>Ok, let&rsquo;s get cracking&hellip;</p>
+
+<h2 id="test-run">Test run</h2>
+
+<p>Test run on some papers from a friend on recovery in conversation.</p>
+
+<pre><code class="language-python">pdfs_list = glob.glob('../../../files/recovery_papers_for_word_cloud/*.pdf')
+def get_text(fname):
+    pdf = PyPDF2.PdfFileReader(open(fname, &quot;rb&quot;))
+    text = ' '.join([page.extractText().replace('\n', ' ') for page in pdf.pages])
+    return text  
+texts = {p: get_text(p) for p in pdfs_list}
+all_texts = ' '.join(texts.values())
+</code></pre>
+
+<p>Here are some snippets from each paper. Some have clearly not parsed very well&hellip;</p>
+
+<pre><code class="language-python">for k,v in texts.items():
+  print('\n\n\nPaper: %s\n\n' %k)
+  print(v[:1000])
+</code></pre>
+
+<pre><code>Paper: ../../../files/recovery_papers_for_word_cloud/1-s2.0-S0006320714000925-main.pdf
+
+
+PerspectiveRe-deﬁningrecovery:Ageneralizedframeworkforassessingspecies recoveryAlanaWestwood ,EmilieReuchlin-Hugenholtz,DavidM.Keith DepartmentofBiology,DalhousieUniversityHalifax,NovaScotiaB3H4R2,Canada articleinfo Articlehistory: Received2October2013  Receivedinrevisedform13January2014  Accepted22February2014  Availableonline22March2014 Keywords: Conservation ProtectionEndangeredspecies Recovery Speciesatrisk  PolicyabstractAtpresent,theconceptsof‘recovery’and‘recoveredstate’arepoorlydeﬁnedandoftenconfusedwithin academicliteratureandlegislation.Thesedeﬁnitionalinconsistenciesresultinglobaladhocattemptsat recoveryandrecoveryplansthattypicallyexhibitlowsuccessrates,andwhoseoutcomesaredifﬁcultto  evaluate.Thereisadireneedforaninternationallyacceptedframeworktoguidethedevelopmentof plansfortherecoveryofpopulations,species,andecosystems.Suchaframeworkmustdistinguish betweentheprocessofrecoveryandtheend-stateofrecovered,andimplementquantiﬁable,generaliz-  ableguidelinesthatensureoptimalout
+
+
+
+Paper: ../../../files/recovery_papers_for_word_cloud/1-s2.0-S0169534711002060-main.pdf
+
+
+Recovery of marine animal populationsand ecosystemsHeike K. Lotze1, Marta Coll1,2, Anna M. Magera1, Christine Ward-Paige1andLaura Airoldi31Biology Department, Dalhousie University,  Halifax, Nova Scotia, B3H 4R2, Canada2Institut de Cie` ncies del Mar (ICM-CSIC), Passeig marõ«tim de la Barceloneta, n 37-49, 08003, Barcelona, Spain3Dipartimento di Biologia Evoluzionistica Sperimentale and CIRSA, Universita` di Bologna, Via S. Alberto 163, 48123 Ravenna, ItalyMany marine populations and ecosystems have experi-enced strong historical depletions, yet reports of recov-eries are increasing. Here, we review the growingresearch on marine recoveries to reveal how commonrecovery is, its magnitude, timescale and major drivers.Overall, 10Œ50% of depleted populations and ecosys-tems show some recovery, but rarely to former levelsof abundance. In addition, recovery can take many dec-ades for long-lived species and complex ecosystems.Major drivers of recovery include the reduction of humanimpacts, esp
+
+
+
+Paper: ../../../files/recovery_papers_for_word_cloud/BioScience-2006-Dreitz-765-71.pdf
+
+
+Forum In a perfect world,recovery programs would have  adequate funding,with public and scientific support,and would be built on a foundation ofreliable data.In reality,many  ofthese essential ingredients are missing from most recovery  programs.For example,the lack ofongoing training to help  workers remain abreast ofnew methods and ideas (Ander-  son et al.2003),the appointment ofinexperienced person-  nel to key positions (Reading and Miller 1994),and the lack  ofcoordination among agencies may particularly affect re-  covery programs.Because recovery programs are often car-  ried out with a thin margin for error,they require strong,  qualified leadership with up-to-date knowledge on species and  conservation methods. Suggested modifications to the Endangered Species Act,as well as critiques and assessments ofrecovery plans,have been  published since the early 1990s (Tear et al.1993,Hoekstra et  al.2002).The recovery program for the Wyoming toad ( Bufobaxteri ) lacks many ofthe esse
+
+
+
+Paper: ../../../files/recovery_papers_for_word_cloud/BioScience-2015-Wolf-200-7.pdf
+
+
+Forum 200   BioScience February 2015 / Vol. 65 No. 2  http://bioscience.oxfordjournals.org BioScience  65: 200Œ207. © The Author(s) 2015. Published by Oxford University Press on behalf of the American Institute of Biological Sciences. All rights  reserved. For Permissions, please e-mail: journals.permissions@oup.com.   doi:10.1093/biosci/biu218  Advance Access publication 21 January 2015 Beyond PVA: Why Recovery under  the Endangered Species Act Is   More than Population Viability SHAYE WOLF, BRETT HARTL, CARLOS CARROLL, MAILE C. NEEL, AND D. NOAH GREENWALD Recovery criteria under the Endangered Species Act are the objective, measurable targets for determining whether the recovery of listed species  has been achieved. Existing criteria have been criticized as inconsistent and poorly supported. Recent proposals for improving those criteria have   recommended framing them around population viability analysis (PVA) and setting criteria on the basis of extinction risk thresholds. Used in  
+
+
+
+Paper: ../../../files/recovery_papers_for_word_cloud/BOOR-2014-Conservation_Biology.pdf
+
+
+Review AFrameworkforDevelopingObjectiveand MeasurableRecoveryCriteriaforThreatened andEndangeredSpecies GINAK.HIMESBOOR EcologyDepartment,MontanaStateUniversity,P.O.Box173460,Bozeman,MT59717,U.S.A., emailgkhimesboor@montana.edu Abstract: ForspecieslistedundertheU.S.EndangeredSpeciesAct(ESA),theU.S.FishandWildlifeServiceand NationalMarineFisheriesServicearetaskedwithwritingrecoveryplansthatincludeÒobjective,measurable criteriaÓthatdefinewhenaspeciesisnolongeratriskofextinction,butneithertheactitselfnoragency guidelinesprovideanexplicitdefinitionofobjective,measurablecriteria.Pastreviewsofrecoveryplans, includingonepublishedin2012,showthatmanycriterialackquantitativemetricswithclearbiological rationaleandarenotmeetingthemeasureableandobjectivemandate.Ireviewedhowobjective,measureable criteriahavebeendefinedimplicitlyandexplicitlyinpeer-reviewedliterature,theESA,otherU.S.statutes, andlegaldecisions.Basedonasynthesisofthesesources,Iproposethefollowing6standardsbeusedas minimumrequirementsf
+
+
+
+Paper: ../../../files/recovery_papers_for_word_cloud/NEEL_et_al-2013-Conservation_Biology.pdf
+
+
+ContributedPaper PredictingRecoveryCriteriaforThreatenedand EndangeredPlantSpeciesontheBasisofPast AbundancesandBiologicalTraits MAILEC.NEELANDJUDYP.CHE-CASTALDO* DepartmentofPlantScienceandLandscapeArchitectureandDepartmentofEntomology,UniversityofMaryland,CollegePark,MD 20742,U.S.A. Abstract: RecoveryplansforspecieslistedundertheU.S.EndangeredSpeciesActarerequiredtospecify measurablecriteriathatcanbeusedtodeterminewhenthespeciescanbedelisted.Forthe642listed endangeredandthreatenedplantspeciesthathaverecoveryplans,weappliedrecursivepartitioningmethods totestwhetherthenumberofindividualsorpopulationsrequiredfordelistingcanbepredictedonthe basisofdistributionalandbiologicaltraits,previousabundanceatmultipletimesteps,oracombination oftraitsandpreviousabundances.Wealsotestedlistingstatus(threatenedorendangered)andtheyear therecoveryplanwaswrittenaspredictorsofrecoverycriteria.Weanalyzedseparatelyrecoverycriteria thatwerestatedasnumberofpopulationsandasnumberofindividuals(population-baseda
+
+
+
+Paper: ../../../files/recovery_papers_for_word_cloud/Redford et al. - 2011 - What Does It Mean to Successfully Conserve a (Vertebrate) Species.pdf
+
+
+Articles www.biosciencemag.orgJanuary 2011 / Vol. 61 No. 1  What Does It Mean to Successfully Conserve a (Vertebrate) Species? KENT H. REDFORD, GEORGE AMATO, JONATHAN BAILLIE, PABLO BELDOMENICO, ELIZABETHL. BENNETT, NANCY  CLUM, ROBERTCOOK, GUSTAVO FONSECA, SIMON HEDGES, FREDERICLAUNAY, SUSANLIEBERMAN, GEOR- GINAM.MACE, AKIRAMURAYAMA, ANDREA PUTNAM, JOHN G. ROBINSON, HOWARD ROSENBAUM, ERICW.   SANDERSON, SIMONN.STUART, PATRICKTHOMAS, AND JOHNTHORBJARNARSON  The conservation of species is one of the foundations of conservation biology. Successful species conservation has often been d efined as simply the  avoidance of extinction. We argue that this focus, although important,  amounts to practicing conservation at the “emergency roo m door,” and will  never be a sufficient approach to conserving species. Instead,  we elaborate a positive definition of species conservation on th e basis of six attributes  and propose a categorization of different states of species conservation using the e
+</code></pre>
+
+<p>Generate wordclouds</p>
+
+<pre><code class="language-python">wordclouds = {k:  WordCloud(max_font_size=40).generate(v) for k,v in texts.items()}
+</code></pre>
+
+<pre><code class="language-python">figf = outdir + '/recovery_wordcloud_test.png'
+
+fig, ax = plt.subplots(ncols=1,nrows=len(wordclouds), figsize=(12,20))
+
+for wc_it,(paper_name,wc_image) in enumerate(wordclouds.items()):
+
+  a = ax[wc_it]
+    
+  a.imshow(wc_image)
+  a.axis('off')
+  a.set_title('\n\n' + os.path.split(paper_name)[-1])
+
+    
+plt.tight_layout()
+
+plt.savefig(figf, bbox_inches='tight')
+</code></pre>
+
+<p><img src="./making_wordclouds_18_0.png" alt="png" /></p>
+
+<p>Combined wordcloud from all papers:</p>
+
+<pre><code class="language-python">all_wordcloud = WordCloud(max_font_size=40).generate(all_texts)
+</code></pre>
+
+<pre><code class="language-python">figf = outdir + '/recovery_allwordcloud_test.png'
+
+fig, ax = plt.subplots(figsize=(12,6))
+
+ax.imshow(all_wordcloud)
+ax.axis('off')
+
+ax.set_title('\n\nAll recovery papers wordcloud',
+             fontdict={'fontsize': 20})
+    
+plt.tight_layout()
+
+plt.savefig(figf, bbox_inches='tight')
+#plt.close()
+</code></pre>
+
+<p><img src="./making_wordclouds_21_0.png" alt="png" /></p>
+
+    </div>
+  
+</div>
+
+    </div>
+  </section>
+  
+
+
+<div class="container">
+  <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" id="back_to_top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+</div>
+
+
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha512-+NqPlbbtM1QqiK8ZAo4Yrj2c4lNQoGv8P79DPtKzj++l5jnN39rHA/xsqn8zE9l0uSoxaCdrOgFs6yjyfbBxSg==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+        
+      
+
+      
+      
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.d813ae958640746e240f434cafc95afb.js"></script>
+
+  </body>
+</html>
+
+
