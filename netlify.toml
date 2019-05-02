@@ -1,5 +1,5 @@
 [build]
-  publish = "public"
+  publish = "site/public"
   command = "cd site && hugo"
 
 [context.production.environment]
