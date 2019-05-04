@@ -1,6 +1,7 @@
 [build]
   publish = "site/public"
-  command = "cd site && hugo"
+  command = "python convert_notebooks.py  \
+             cd site && hugo"
 
 [context.production.environment]
   HUGO_VERSION = "0.55.2"
