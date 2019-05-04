@@ -1,6 +1,7 @@
 [build]
   publish = "site/public"
-  command = "python convert_notebooks.py  \
+  command = "rm -rf site/public \ 
+             python convert_notebooks.py  \
              cd site && hugo"
 
 [context.production.environment]
