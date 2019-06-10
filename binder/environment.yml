@@ -5,7 +5,10 @@ dependencies:
   - numpy
   - matplotlib
   - pandas
+  - h5py
   - numba
+  - networkx
+  - numexpr
   - scipy
   - bokeh
   - rise
