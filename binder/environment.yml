@@ -15,3 +15,8 @@ dependencies:
   - pip:
     - jupyter-contrib-nbextensions
     - seaborn
+    - nibabel
+    - dipy
+    - cython
+    - nilearn
+    - scikit-learn
