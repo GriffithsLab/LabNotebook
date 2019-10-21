@@ -58,7 +58,7 @@ nbs = glob.glob('*.ipynb')
 
 entries_dir = base_dir + '/content/entry' 
 
-print('notebooks: %s' %nbs)
+print('\n\nnotebooks: %s\n\n\n' %nbs)
 
 
 for nb_it,nb in enumerate(nbs):
@@ -75,12 +75,12 @@ for nb_it,nb in enumerate(nbs):
         post_title = gl_nb_md['post_title']    
         
         new_dir = entries_dir + '/%s' % nb_name
-        print('going to new dir: %s' %new_dir)
+        print('\n\ngoing to new dir: %s' %new_dir)
         if not os.path.isdir(new_dir): os.makedirs(new_dir)
         os.chdir(new_dir)
-        print('copying file %s to .' %nb_full)
+        print('\n\ncopying file %s to .' %nb_full)
         os.system('cp %s .'  %nb_full)
-        print('running nbconvert for %s' %nb)
+        print('\n\nrunning nbconvert for %s' %nb)
         nbc_str = nbc_str_tpl % nb 
         os.system(nbc_str)
     
@@ -94,7 +94,7 @@ for nb_it,nb in enumerate(nbs):
         os.system('rm %s' %nb)
 
     else:
-        print('%s - skipping; grifflab labnotebook info not in metadata' %nb)
+        print('\n\n%s - skipping; grifflab labnotebook info not in metadata' %nb)
 
 os.chdir(base_dir)
 
