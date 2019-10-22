@@ -115,4 +115,7 @@ I also have read that multi-line equations need to replace double backslash esca
 
 
 
+Good example page for this: 'tvb_neural_fields_and_power_spectra' post. 
+
+
 
