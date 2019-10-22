@@ -3,6 +3,9 @@
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/GriffithsLab/LabNotebook/master)
 
 
+[View on nbviewer](https://nbviewer.jupyter.org/github/GriffithsLab/LabNotebook/tree/master/notebooks/)
+
+
 
 
 
