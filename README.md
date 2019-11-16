@@ -79,7 +79,7 @@ hugo server -t hugo-academic --disableFastRender
 A few apparently necessary tweaks for using latex within markdown in hugo. 
 
 
-###Page frontmatter
+### Page frontmatter
 
 Need to insert the following lines in the page source
 
@@ -92,7 +92,7 @@ In this repo the frontmatter for each page is being generated auatomatically (in
 
 
 
-###Latex source
+### Latex source
 
 The hugo academic page provides various equation examples 
 
