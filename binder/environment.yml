@@ -3,22 +3,22 @@ channels:
 dependencies:
   - python
   - numpy
-#  - matplotlib
-#  - pandas
-#  - h5py
-#  - numba
-#  - networkx
-#  - numexpr
-#  - scipy
-#  - bokeh
-#  - rise
+  #  - matplotlib
+  #  - pandas
+  #  - h5py
+  #  - numba
+  #  - networkx
+  #  - numexpr
+  #  - scipy
+  #  - bokeh
+  #  - rise
   - pip:
     - jupyter-contrib-nbextensions
-#    - seaborn
-#    - nibabel
-#    - dipy
-#    - cython
-#    - nilearn
-#    - scikit-learn
     - tvb-library
     - tvb-data
+  #    - seaborn
+  #    - nibabel
+  #    - dipy
+  #    - cython
+  #    - nilearn
+  #    - scikit-learn
